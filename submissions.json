@@ -2346,6 +2346,24 @@
     ],
     "timestamp": "Jul/17/2021 22:47"
   },
+  "CF72257975": {
+    "contest_id": 381,
+    "language": "Python 3",
+    "path": "codeforces\\381\\A.py",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sereja and Dima",
+    "problem_url": "https://codeforces.com/contest/381/problem/A",
+    "submission_id": "CF72257975",
+    "submission_url": "https://codeforces.com/contest/381/submission/72257975",
+    "tags": [
+      "greedy",
+      "implementation",
+      "two pointers",
+      "*800"
+    ],
+    "timestamp": "Mar/02/2020 21:21"
+  },
   "CF72259492": {
     "contest_id": 381,
     "language": "Java 11",
