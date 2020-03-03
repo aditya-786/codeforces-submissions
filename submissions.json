@@ -2346,6 +2346,23 @@
     ],
     "timestamp": "Jul/17/2021 22:47"
   },
+  "CF72311441": {
+    "contest_id": 734,
+    "language": "Java 11",
+    "path": "codeforces\\734\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Anton and Danik",
+    "problem_url": "https://codeforces.com/contest/734/problem/A",
+    "submission_id": "CF72311441",
+    "submission_url": "https://codeforces.com/contest/734/submission/72311441",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Mar/03/2020 20:05"
+  },
   "CF73518056": {
     "contest_id": 677,
     "language": "Java 11",
