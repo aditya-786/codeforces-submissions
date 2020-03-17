@@ -2346,6 +2346,22 @@
     ],
     "timestamp": "Jul/17/2021 22:47"
   },
+  "CF73518056": {
+    "contest_id": 677,
+    "language": "Java 11",
+    "path": "codeforces\\677\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Vanya and Fence",
+    "problem_url": "https://codeforces.com/contest/677/problem/A",
+    "submission_id": "CF73518056",
+    "submission_url": "https://codeforces.com/contest/677/submission/73518056",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/18/2020 00:30"
+  },
   "CF73519277": {
     "contest_id": 263,
     "language": "Java 11",
