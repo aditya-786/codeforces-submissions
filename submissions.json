@@ -2346,6 +2346,22 @@
     ],
     "timestamp": "Jul/17/2021 22:47"
   },
+  "CF73524250": {
+    "contest_id": 344,
+    "language": "Java 11",
+    "path": "codeforces\\344\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Magnets",
+    "problem_url": "https://codeforces.com/contest/344/problem/A",
+    "submission_id": "CF73524250",
+    "submission_url": "https://codeforces.com/contest/344/submission/73524250",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/18/2020 02:21"
+  },
   "CF94200197": {
     "contest_id": 16,
     "language": "Java 11",
