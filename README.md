@@ -307,14 +307,14 @@ A repository to keep track of problem solving practice, containing solutions fro
 14 | [A - Black Square](https://codeforces.com/contest/431/problem/A) | [Java 11](./codeforces/431/A.java) | `implementation` `*800` | Mar/19/2020 00:31 | 
 13 | [A - Police Recruits](https://codeforces.com/contest/427/problem/A) | [Java 11](./codeforces/427/A.java) | `implementation` `*800` | Mar/18/2020 23:53 | 
 12 | [A - Stones on the Table](https://codeforces.com/contest/266/problem/A) | [Java 11](./codeforces/266/A.java) | `implementation` `*800` | Mar/18/2020 17:47 | 
-11 | [A - Magnets](https://codeforces.com/contest/344/problem/A) | [Java 11](./codeforces/344/A.java) | `implementation` `*800` | Mar/18/2020 02:21 | 
-10 | [A - Gravity Flip](https://codeforces.com/contest/405/problem/A) | [Java 11](./codeforces/405/A.java) | `greedy` `implementation` `sortings` `*900` | Mar/18/2020 01:35 | 
-9 | [A - Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | [Java 11](./codeforces/263/A.java) | `implementation` `*800` | Mar/18/2020 00:48 | 
-8 | [A - Vanya and Fence](https://codeforces.com/contest/677/problem/A) | [Java 11](./codeforces/677/A.java) | `implementation` `*800` | Mar/18/2020 00:30 | 
-7 | [A - Anton and Danik](https://codeforces.com/contest/734/problem/A) | [Java 11](./codeforces/734/A.java) | `implementation` `strings` `*800` | Mar/03/2020 20:05 | 
-6 | [A - Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | [Java 11](./codeforces/791/A.java) | `implementation` `*800` | Mar/03/2020 19:53 | 
-5 | [A - Team](https://codeforces.com/contest/231/problem/A) | [Java 11](./codeforces/231/A.java) | `brute force` `greedy` `*800` | Mar/03/2020 19:38 | 
-4 | [A - Boy or Girl](https://codeforces.com/contest/236/problem/A) | [Java 11](./codeforces/236/A.java) | `brute force` `implementation` `strings` `*800` | Mar/03/2020 00:44 | 
-3 | [A - Word](https://codeforces.com/contest/59/problem/A) | [Java 11](./codeforces/59/A.java) | `implementation` `strings` `*800` | Mar/02/2020 23:54 | 
-2 | [A - Word Capitalization](https://codeforces.com/contest/281/problem/A) | [Java 11](./codeforces/281/A.java) | `implementation` `strings` `*800` | Mar/02/2020 21:59 | 
-1 | [A - Sereja and Dima](https://codeforces.com/contest/381/problem/A) | [Java 11](./codeforces/381/A.java) | `greedy` `implementation` `two pointers` `*800` | Mar/02/2020 21:43 | 
+11 | [A - Sereja and Dima](https://codeforces.com/contest/381/problem/A) | [Java 11](./codeforces/381/A.java) | `greedy` `implementation` `two pointers` `*800` | Mar/18/2020 02:35 | 
+10 | [A - Magnets](https://codeforces.com/contest/344/problem/A) | [Java 11](./codeforces/344/A.java) | `implementation` `*800` | Mar/18/2020 02:21 | 
+9 | [A - Gravity Flip](https://codeforces.com/contest/405/problem/A) | [Java 11](./codeforces/405/A.java) | `greedy` `implementation` `sortings` `*900` | Mar/18/2020 01:35 | 
+8 | [A - Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | [Java 11](./codeforces/263/A.java) | `implementation` `*800` | Mar/18/2020 00:48 | 
+7 | [A - Vanya and Fence](https://codeforces.com/contest/677/problem/A) | [Java 11](./codeforces/677/A.java) | `implementation` `*800` | Mar/18/2020 00:30 | 
+6 | [A - Anton and Danik](https://codeforces.com/contest/734/problem/A) | [Java 11](./codeforces/734/A.java) | `implementation` `strings` `*800` | Mar/03/2020 20:05 | 
+5 | [A - Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | [Java 11](./codeforces/791/A.java) | `implementation` `*800` | Mar/03/2020 19:53 | 
+4 | [A - Team](https://codeforces.com/contest/231/problem/A) | [Java 11](./codeforces/231/A.java) | `brute force` `greedy` `*800` | Mar/03/2020 19:38 | 
+3 | [A - Boy or Girl](https://codeforces.com/contest/236/problem/A) | [Java 11](./codeforces/236/A.java) | `brute force` `implementation` `strings` `*800` | Mar/03/2020 00:44 | 
+2 | [A - Word](https://codeforces.com/contest/59/problem/A) | [Java 11](./codeforces/59/A.java) | `implementation` `strings` `*800` | Mar/02/2020 23:54 | 
+1 | [A - Word Capitalization](https://codeforces.com/contest/281/problem/A) | [Java 11](./codeforces/281/A.java) | `implementation` `strings` `*800` | Mar/02/2020 21:59 | 
