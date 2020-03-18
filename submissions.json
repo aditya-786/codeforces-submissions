@@ -4155,6 +4155,23 @@
     ],
     "timestamp": "Mar/18/2020 02:21"
   },
+  "CF73604091": {
+    "contest_id": 731,
+    "language": "Java 11",
+    "path": "codeforces\\731\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Night at the Museum",
+    "problem_url": "https://codeforces.com/contest/731/problem/A",
+    "submission_id": "CF73604091",
+    "submission_url": "https://codeforces.com/contest/731/submission/73604091",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Mar/19/2020 01:05"
+  },
   "CF73605160": {
     "contest_id": 268,
     "language": "Java 11",
