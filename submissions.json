@@ -4155,6 +4155,22 @@
     ],
     "timestamp": "Mar/18/2020 02:21"
   },
+  "CF73599061": {
+    "contest_id": 427,
+    "language": "Java 11",
+    "path": "codeforces\\427\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Police Recruits",
+    "problem_url": "https://codeforces.com/contest/427/problem/A",
+    "submission_id": "CF73599061",
+    "submission_url": "https://codeforces.com/contest/427/submission/73599061",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/18/2020 23:53"
+  },
   "CF73601831": {
     "contest_id": 431,
     "language": "Java 11",
