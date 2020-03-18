@@ -4155,6 +4155,23 @@
     ],
     "timestamp": "Mar/18/2020 02:21"
   },
+  "CF73610376": {
+    "contest_id": 9,
+    "language": "Java 11",
+    "path": "codeforces\\9\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Die Roll",
+    "problem_url": "https://codeforces.com/contest/9/problem/A",
+    "submission_id": "CF73610376",
+    "submission_url": "https://codeforces.com/contest/9/submission/73610376",
+    "tags": [
+      "math",
+      "probabilities",
+      "*800"
+    ],
+    "timestamp": "Mar/19/2020 03:17"
+  },
   "CF73899713": {
     "contest_id": 294,
     "language": "Java 11",
