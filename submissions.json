@@ -4155,6 +4155,22 @@
     ],
     "timestamp": "Mar/18/2020 02:21"
   },
+  "CF73605160": {
+    "contest_id": 268,
+    "language": "Java 11",
+    "path": "codeforces\\268\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Games",
+    "problem_url": "https://codeforces.com/contest/268/problem/A",
+    "submission_id": "CF73605160",
+    "submission_url": "https://codeforces.com/contest/268/submission/73605160",
+    "tags": [
+      "brute force",
+      "*800"
+    ],
+    "timestamp": "Mar/19/2020 01:24"
+  },
   "CF73608193": {
     "contest_id": 732,
     "language": "Java 11",
