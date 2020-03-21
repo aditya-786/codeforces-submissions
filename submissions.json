@@ -4155,6 +4155,23 @@
     ],
     "timestamp": "Mar/18/2020 02:21"
   },
+  "CF73918447": {
+    "contest_id": 799,
+    "language": "Java 11",
+    "path": "codeforces\\799\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Carrot Cakes",
+    "problem_url": "https://codeforces.com/contest/799/problem/A",
+    "submission_id": "CF73918447",
+    "submission_url": "https://codeforces.com/contest/799/submission/73918447",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Mar/22/2020 02:37"
+  },
   "CF73920183": {
     "contest_id": 443,
     "language": "Java 11",
