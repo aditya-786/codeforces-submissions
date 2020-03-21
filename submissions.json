@@ -4155,6 +4155,25 @@
     ],
     "timestamp": "Mar/18/2020 02:21"
   },
+  "CF73921486": {
+    "contest_id": 339,
+    "language": "Java 11",
+    "path": "codeforces\\339\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Helpful Maths",
+    "problem_url": "https://codeforces.com/contest/339/problem/A",
+    "submission_id": "CF73921486",
+    "submission_url": "https://codeforces.com/contest/339/submission/73921486",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Mar/22/2020 04:04"
+  },
   "CF73922008": {
     "contest_id": 490,
     "language": "Java 11",
