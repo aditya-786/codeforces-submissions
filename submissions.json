@@ -4155,6 +4155,23 @@
     ],
     "timestamp": "Mar/18/2020 02:21"
   },
+  "CF73899713": {
+    "contest_id": 294,
+    "language": "Java 11",
+    "path": "codeforces\\294\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Shaass and Oskols",
+    "problem_url": "https://codeforces.com/contest/294/problem/A",
+    "submission_id": "CF73899713",
+    "submission_url": "https://codeforces.com/contest/294/submission/73899713",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/21/2020 20:52"
+  },
   "CF73903363": {
     "contest_id": 709,
     "language": "Java 11",
