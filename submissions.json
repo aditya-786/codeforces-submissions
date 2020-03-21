@@ -4155,6 +4155,23 @@
     ],
     "timestamp": "Mar/18/2020 02:21"
   },
+  "CF73921126": {
+    "contest_id": 686,
+    "language": "Java 11",
+    "path": "codeforces\\686\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Free Ice Cream",
+    "problem_url": "https://codeforces.com/contest/686/problem/A",
+    "submission_id": "CF73921126",
+    "submission_url": "https://codeforces.com/contest/686/submission/73921126",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/22/2020 03:51"
+  },
   "CF73921486": {
     "contest_id": 339,
     "language": "Java 11",
