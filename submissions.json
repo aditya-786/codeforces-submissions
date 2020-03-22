@@ -4155,6 +4155,22 @@
     ],
     "timestamp": "Mar/18/2020 02:21"
   },
+  "CF73973015": {
+    "contest_id": 136,
+    "language": "Java 11",
+    "path": "codeforces\\136\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Presents",
+    "problem_url": "https://codeforces.com/contest/136/problem/A",
+    "submission_id": "CF73973015",
+    "submission_url": "https://codeforces.com/contest/136/submission/73973015",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/22/2020 20:40"
+  },
   "CF73992252": {
     "contest_id": 567,
     "language": "Java 11",
