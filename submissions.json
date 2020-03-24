@@ -4155,6 +4155,24 @@
     ],
     "timestamp": "Mar/18/2020 02:21"
   },
+  "CF74229349": {
+    "contest_id": 432,
+    "language": "Java 11",
+    "path": "codeforces\\432\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Choosing Teams",
+    "problem_url": "https://codeforces.com/contest/432/problem/A",
+    "submission_id": "CF74229349",
+    "submission_url": "https://codeforces.com/contest/432/submission/74229349",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Mar/24/2020 23:29"
+  },
   "CF74232084": {
     "contest_id": 432,
     "language": "GNU C++14",
