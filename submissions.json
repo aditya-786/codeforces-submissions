@@ -4155,6 +4155,22 @@
     ],
     "timestamp": "Mar/18/2020 02:21"
   },
+  "CF74679858": {
+    "contest_id": 80,
+    "language": "GNU C++14",
+    "path": "codeforces\\80\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Panoramix's Prediction",
+    "problem_url": "https://codeforces.com/contest/80/problem/A",
+    "submission_id": "CF74679858",
+    "submission_url": "https://codeforces.com/contest/80/submission/74679858",
+    "tags": [
+      "brute force",
+      "*800"
+    ],
+    "timestamp": "Mar/29/2020 03:35"
+  },
   "CF75017149": {
     "contest_id": 225,
     "language": "GNU C++14",
