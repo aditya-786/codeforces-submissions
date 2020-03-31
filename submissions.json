@@ -4155,6 +4155,23 @@
     ],
     "timestamp": "Mar/18/2020 02:21"
   },
+  "CF75017149": {
+    "contest_id": 225,
+    "language": "GNU C++14",
+    "path": "codeforces\\225\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dice Tower",
+    "problem_url": "https://codeforces.com/contest/225/problem/A",
+    "submission_id": "CF75017149",
+    "submission_url": "https://codeforces.com/contest/225/submission/75017149",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1100"
+    ],
+    "timestamp": "Apr/01/2020 01:31"
+  },
   "CF75285590": {
     "contest_id": 218,
     "language": "GNU C++14",
