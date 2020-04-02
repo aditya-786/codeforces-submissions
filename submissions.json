@@ -4155,6 +4155,24 @@
     ],
     "timestamp": "Mar/18/2020 02:21"
   },
+  "CF75285590": {
+    "contest_id": 218,
+    "language": "GNU C++14",
+    "path": "codeforces\\218\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Mountain Scenery",
+    "problem_url": "https://codeforces.com/contest/218/problem/A",
+    "submission_id": "CF75285590",
+    "submission_url": "https://codeforces.com/contest/218/submission/75285590",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Apr/03/2020 01:15"
+  },
   "CF78600471": {
     "contest_id": 514,
     "language": "Java 11",
