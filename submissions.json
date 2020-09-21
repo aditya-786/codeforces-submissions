@@ -4155,6 +4155,25 @@
     ],
     "timestamp": "Mar/18/2020 02:21"
   },
+  "CF93437858": {
+    "contest_id": 1419,
+    "language": "Java 11",
+    "path": "codeforces\\1419\\D1.java",
+    "platform": "Codeforces",
+    "problem_index": "D1",
+    "problem_name": "Sage's Birthday (easy version)",
+    "problem_url": "https://codeforces.com/contest/1419/problem/D1",
+    "submission_id": "CF93437858",
+    "submission_url": "https://codeforces.com/contest/1419/submission/93437858",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Sep/22/2020 01:50"
+  },
   "CF93439933": {
     "contest_id": 1419,
     "language": "Java 11",
