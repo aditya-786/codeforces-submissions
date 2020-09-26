@@ -1,4 +1,20 @@
 {
+  "AC17043897": {
+    "contest_id": "abl",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abl\\B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Integer Preference",
+    "problem_url": "https://atcoder.jp/contests/abl/tasks/abl_b",
+    "submission_id": "AC17043897",
+    "submission_url": "https://atcoder.jp/contests/abl/submissions/17043897",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Sep/26/2020 18:49"
+  },
   "AC17045329": {
     "contest_id": "abl",
     "language": "Java (OpenJDK 11.0.6)",
