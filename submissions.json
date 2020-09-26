@@ -1,4 +1,20 @@
 {
+  "AC17045329": {
+    "contest_id": "abl",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abl\\C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Connect Cities",
+    "problem_url": "https://atcoder.jp/contests/abl/tasks/abl_c",
+    "submission_id": "AC17045329",
+    "submission_url": "https://atcoder.jp/contests/abl/submissions/17045329",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Sep/26/2020 19:00"
+  },
   "AC18220322": {
     "contest_id": "abc073",
     "language": "Java (OpenJDK 11.0.6)",
