@@ -1,4 +1,20 @@
 {
+  "AC17043658": {
+    "contest_id": "abl",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abl\\A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Repeat ACL",
+    "problem_url": "https://atcoder.jp/contests/abl/tasks/abl_a",
+    "submission_id": "AC17043658",
+    "submission_url": "https://atcoder.jp/contests/abl/submissions/17043658",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Sep/26/2020 18:47"
+  },
   "AC17043897": {
     "contest_id": "abl",
     "language": "Java (OpenJDK 11.0.6)",
