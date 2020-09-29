@@ -307,8 +307,8 @@ public class Main {
     {
         try
         {
-            //FastReader fr = new FastReader();
-            Reader fr = new Reader();
+            FastReader fr = new FastReader();
+            //Reader fr = new Reader();
 
             //try(OutputStream out = new BufferedOutputStream(System.out))
             try(BufferedWriter out = new BufferedWriter(new OutputStreamWriter(System.out)))
