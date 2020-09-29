@@ -310,8 +310,8 @@ public class Main {
             //FastReader fr = new FastReader();
             Reader fr = new Reader();
 
-            try(OutputStream out = new BufferedOutputStream(System.out))
-           // try(BufferedWriter out = new BufferedWriter(new OutputStreamWriter(System.out)))
+            //try(OutputStream out = new BufferedOutputStream(System.out))
+            try(BufferedWriter out = new BufferedWriter(new OutputStreamWriter(System.out)))
             {
                 int n = fr.nextInt();
 
@@ -337,8 +337,8 @@ public class Main {
                     l++;
                 }
 
-                out.write((s).getBytes());
-                //out.write(s);
+                //out.write((s).getBytes());
+                out.write(s);
 
                 out.flush();
             }
