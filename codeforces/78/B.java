@@ -181,127 +181,127 @@ public class Main {
         }
     }
 
-    static long MOD = (long) (1e9 + 7);
-
-    static long powerLL(long x, long n)
-    {
-        long result = 1;
-        while (n > 0)
-        {
-            if (n % 2 == 1)
-            {
-                result = result * x % MOD;
-            }
-            n = n / 2;
-            x = x * x % MOD;
-        }
-        return result;
-    }
-
-    static long powerStrings(String sa, String sb)
-    {
-        long a = 0, b = 0;
-
-        for (int i = 0; i < sa.length(); i++)
-        {
-            a = (a * 10 + (sa.charAt(i) - '0')) %
-                    MOD;
-        }
-
-        for (int i = 0; i < sb.length(); i++)
-        {
-            b = (b * 10 + (sb.charAt(i) - '0')) %
-                    (MOD - 1);
-        }
-
-        return powerLL(a, b);
-    }
-
-    static long gcd(long a, long b)
-    {
-        if (a==0) return b;
-        else return gcd(b%a,a);
-    }
-
-    static long lcm(long a, long b)
-    {
-        return (a*b)/gcd(a,b);
-    }
-
-    static int lower_bound(List<Integer> list, int k)
-    {
-        int s = 0;
-        int e = list.size();
-
-        while (s!=e)
-        {
-            int mid = (s+e)>>1;
-
-            if (list.get(mid)<k) s = mid+1;
-            else e = mid;
-        }
-
-        if (s == list.size()) return -1;
-        return s;
-    }
-
-    static int upper_bound(List<Integer> list, int k)
-    {
-        int s = 0;
-        int e = list.size();
-
-        while (s!=e)
-        {
-            int mid = (s+e)>>1;
-
-            if (list.get(mid)<=k) s = mid+1;
-            else e = mid;
-        }
-
-        if (s == list.size()) return -1;
-        return s;
-    }
-
-    static void addEdge(ArrayList<ArrayList<Integer>>graph, int edge1, int edge2)
-    {
-        graph.get(edge1).add(edge2);
-        graph.get(edge2).add(edge1);
-    }
-
-    static class Pair<X,Y>
-    {
-        public final X first;
-        public final Y second;
-
-        Pair(X first, Y second)
-        {
-            this.first = first;
-            this.second = second;
-        }
-
-        public static <X,Y> Pair <X,Y> of (X a, Y b)
-        {
-            return new Pair<>(a,b);
-        }
-
-        public String toString()
-        {
-            return "("+first+","+second+")";
-        }
-    }
-
-    static class Comparee
-    {
-        static void compare(List<Pair<Integer, Integer>> pairs, int m)
-        {
-            Collections.sort(pairs, new Comparator<Pair<Integer, Integer>>() {
-                @Override
-                public int compare(Pair<Integer, Integer> p1, Pair<Integer, Integer> p2) {
-                    return p1.second - p2.second;
-                }
-            });
-        }
-    }
+//    static long MOD = (long) (1e9 + 7);
+//
+//    static long powerLL(long x, long n)
+//    {
+//        long result = 1;
+//        while (n > 0)
+//        {
+//            if (n % 2 == 1)
+//            {
+//                result = result * x % MOD;
+//            }
+//            n = n / 2;
+//            x = x * x % MOD;
+//        }
+//        return result;
+//    }
+//
+//    static long powerStrings(String sa, String sb)
+//    {
+//        long a = 0, b = 0;
+//
+//        for (int i = 0; i < sa.length(); i++)
+//        {
+//            a = (a * 10 + (sa.charAt(i) - '0')) %
+//                    MOD;
+//        }
+//
+//        for (int i = 0; i < sb.length(); i++)
+//        {
+//            b = (b * 10 + (sb.charAt(i) - '0')) %
+//                    (MOD - 1);
+//        }
+//
+//        return powerLL(a, b);
+//    }
+//
+//    static long gcd(long a, long b)
+//    {
+//        if (a==0) return b;
+//        else return gcd(b%a,a);
+//    }
+//
+//    static long lcm(long a, long b)
+//    {
+//        return (a*b)/gcd(a,b);
+//    }
+//
+//    static int lower_bound(List<Integer> list, int k)
+//    {
+//        int s = 0;
+//        int e = list.size();
+//
+//        while (s!=e)
+//        {
+//            int mid = (s+e)>>1;
+//
+//            if (list.get(mid)<k) s = mid+1;
+//            else e = mid;
+//        }
+//
+//        if (s == list.size()) return -1;
+//        return s;
+//    }
+//
+//    static int upper_bound(List<Integer> list, int k)
+//    {
+//        int s = 0;
+//        int e = list.size();
+//
+//        while (s!=e)
+//        {
+//            int mid = (s+e)>>1;
+//
+//            if (list.get(mid)<=k) s = mid+1;
+//            else e = mid;
+//        }
+//
+//        if (s == list.size()) return -1;
+//        return s;
+//    }
+//
+//    static void addEdge(ArrayList<ArrayList<Integer>>graph, int edge1, int edge2)
+//    {
+//        graph.get(edge1).add(edge2);
+//        graph.get(edge2).add(edge1);
+//    }
+//
+//    static class Pair<X,Y>
+//    {
+//        public final X first;
+//        public final Y second;
+//
+//        Pair(X first, Y second)
+//        {
+//            this.first = first;
+//            this.second = second;
+//        }
+//
+//        public static <X,Y> Pair <X,Y> of (X a, Y b)
+//        {
+//            return new Pair<>(a,b);
+//        }
+//
+//        public String toString()
+//        {
+//            return "("+first+","+second+")";
+//        }
+//    }
+//
+//    static class Comparee
+//    {
+//        static void compare(List<Pair<Integer, Integer>> pairs, int m)
+//        {
+//            Collections.sort(pairs, new Comparator<Pair<Integer, Integer>>() {
+//                @Override
+//                public int compare(Pair<Integer, Integer> p1, Pair<Integer, Integer> p2) {
+//                    return p1.second - p2.second;
+//                }
+//            });
+//        }
+//    }
 
     public static void main(String[] args) throws java.lang.Exception
     {
@@ -310,8 +310,7 @@ public class Main {
             FastReader fr = new FastReader();
             //Reader fr = new Reader();
 
-            //try(OutputStream out = new BufferedOutputStream(System.out))
-            try(BufferedWriter out = new BufferedWriter(new OutputStreamWriter(System.out)))
+            try(OutputStream out = new BufferedOutputStream(System.out))
             {
                 int n = fr.nextInt();
 
@@ -337,8 +336,7 @@ public class Main {
                     l++;
                 }
 
-                //out.write((s).getBytes());
-                out.write(s);
+                out.write((s).getBytes());
 
                 out.flush();
             }
