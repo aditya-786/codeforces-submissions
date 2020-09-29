@@ -2346,6 +2346,23 @@
     ],
     "timestamp": "Jul/17/2021 22:47"
   },
+  "CF94203998": {
+    "contest_id": 78,
+    "language": "Java 8",
+    "path": "codeforces\\78\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Easter Eggs",
+    "problem_url": "https://codeforces.com/contest/78/problem/B",
+    "submission_id": "CF94203998",
+    "submission_url": "https://codeforces.com/contest/78/submission/94203998",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Sep/29/2020 17:04"
+  },
   "CF94284631": {
     "contest_id": 746,
     "language": "Java 8",
