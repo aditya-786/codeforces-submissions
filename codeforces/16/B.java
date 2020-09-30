@@ -310,7 +310,6 @@ public class Main {
             //FastReader fr = new FastReader();
             Reader fr = new Reader();
 
-            //code starting
             try(OutputStream out = new BufferedOutputStream(System.out))
             {
                 int n = fr.nextInt();
