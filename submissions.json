@@ -2346,6 +2346,23 @@
     ],
     "timestamp": "Jul/17/2021 22:47"
   },
+  "CF94667420": {
+    "contest_id": 1422,
+    "language": "Java 8",
+    "path": "codeforces\\1422\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Fence",
+    "problem_url": "https://codeforces.com/contest/1422/problem/A",
+    "submission_id": "CF94667420",
+    "submission_url": "https://codeforces.com/contest/1422/submission/94667420",
+    "tags": [
+      "geometry",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Oct/04/2020 21:42"
+  },
   "CF95203348": {
     "contest_id": 1430,
     "language": "Java 8",
