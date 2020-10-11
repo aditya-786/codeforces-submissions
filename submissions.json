@@ -4380,6 +4380,24 @@
     ],
     "timestamp": "Oct/11/2020 14:50"
   },
+  "CF95215869": {
+    "contest_id": 1430,
+    "language": "Java 8",
+    "path": "codeforces\\1430\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Barrels",
+    "problem_url": "https://codeforces.com/contest/1430/problem/B",
+    "submission_id": "CF95215869",
+    "submission_url": "https://codeforces.com/contest/1430/submission/95215869",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Oct/11/2020 15:09"
+  },
   "CF95232647": {
     "contest_id": 1430,
     "language": "Java 8",
