@@ -2346,6 +2346,24 @@
     ],
     "timestamp": "Jul/17/2021 22:47"
   },
+  "CF95203348": {
+    "contest_id": 1430,
+    "language": "Java 8",
+    "path": "codeforces\\1430\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Number of Apartments",
+    "problem_url": "https://codeforces.com/contest/1430/problem/A",
+    "submission_id": "CF95203348",
+    "submission_url": "https://codeforces.com/contest/1430/submission/95203348",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Oct/11/2020 14:50"
+  },
   "CF96914668": {
     "contest_id": 1437,
     "language": "Java 8",
