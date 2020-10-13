@@ -9,7 +9,7 @@ import java.util.*;
 
         Believe In yourself, Everything is possible.
 
-        Never Give Up 
+        Never Give Up
  */
 
 public class Main {
