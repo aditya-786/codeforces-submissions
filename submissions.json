@@ -4380,6 +4380,25 @@
     ],
     "timestamp": "Oct/11/2020 14:50"
   },
+  "CF96016169": {
+    "contest_id": 1428,
+    "language": "Java 8",
+    "path": "codeforces\\1428\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "ABBB",
+    "problem_url": "https://codeforces.com/contest/1428/problem/C",
+    "submission_id": "CF96016169",
+    "submission_url": "https://codeforces.com/contest/1428/submission/96016169",
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "strings",
+      "*1100"
+    ],
+    "timestamp": "Oct/20/2020 00:51"
+  },
   "CF96016205": {
     "contest_id": 1428,
     "language": "Java 11",
