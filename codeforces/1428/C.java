@@ -14,7 +14,7 @@ import java.util.stream.IntStream;
 
         Believe In yourself, Everything is possible.
 
-        Never Give Up 
+        Never Give Up
  */
 
 public class Main {
