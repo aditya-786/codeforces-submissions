@@ -4380,6 +4380,23 @@
     ],
     "timestamp": "Oct/11/2020 14:50"
   },
+  "CF96165977": {
+    "contest_id": 1433,
+    "language": "Java 8",
+    "path": "codeforces\\1433\\E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Two Round Dances",
+    "problem_url": "https://codeforces.com/contest/1433/problem/E",
+    "submission_id": "CF96165977",
+    "submission_url": "https://codeforces.com/contest/1433/submission/96165977",
+    "tags": [
+      "combinatorics",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Oct/20/2020 22:07"
+  },
   "CF96310825": {
     "contest_id": 137,
     "language": "Java 8",
