@@ -321,13 +321,11 @@ public class Main {
                 {
                     int n = fr.nextInt();
 
-                    //List<Integer> list = new ArrayList<>();
-                    int[] arr = new int[n];
+                    List<Integer> list = new ArrayList<>();
                     long minCoins = 0;
                     for (int i=0;i<n;i++)
                     {
-                        arr[i] = fr.nextInt();
-                        int ele = arr[i];
+                        int ele = fr.nextInt();
                         minCoins = Math.max(0L,minCoins+ele);
                     }
 
