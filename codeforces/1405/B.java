@@ -322,12 +322,12 @@ public class Main {
                     int n = fr.nextInt();
 
                     //List<Integer> list = new ArrayList<>();
-                    long[] arr = new long[n];
+                    int[] arr = new int[n];
                     long minCoins = 0;
                     for (int i=0;i<n;i++)
                     {
-                        arr[i] = fr.nextLong();
-                        long ele = arr[i];
+                        arr[i] = fr.nextInt();
+                        int ele = arr[i];
                         minCoins = Math.max(0L,minCoins+ele);
                     }
 
