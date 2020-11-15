@@ -2346,6 +2346,23 @@
     ],
     "timestamp": "Jul/17/2021 22:47"
   },
+  "CF98451721": {
+    "contest_id": 1447,
+    "language": "Java 8",
+    "path": "codeforces\\1447\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Add Candies",
+    "problem_url": "https://codeforces.com/contest/1447/problem/A",
+    "submission_id": "CF98451721",
+    "submission_url": "https://codeforces.com/contest/1447/submission/98451721",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Nov/15/2020 20:19"
+  },
   "CF98460942": {
     "contest_id": 1447,
     "language": "Java 8",
