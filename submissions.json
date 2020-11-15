@@ -2346,6 +2346,25 @@
     ],
     "timestamp": "Jul/17/2021 22:47"
   },
+  "CF98502170": {
+    "contest_id": 1447,
+    "language": "Java 8",
+    "path": "codeforces\\1447\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Knapsack",
+    "problem_url": "https://codeforces.com/contest/1447/problem/C",
+    "submission_id": "CF98502170",
+    "submission_url": "https://codeforces.com/contest/1447/submission/98502170",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Nov/16/2020 00:53"
+  },
   "CF98696358": {
     "contest_id": 1440,
     "language": "Java 8",
