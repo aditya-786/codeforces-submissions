@@ -2346,6 +2346,23 @@
     ],
     "timestamp": "Jul/17/2021 22:47"
   },
+  "CF98460942": {
+    "contest_id": 1447,
+    "language": "Java 8",
+    "path": "codeforces\\1447\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Numbers Box",
+    "problem_url": "https://codeforces.com/contest/1447/problem/B",
+    "submission_id": "CF98460942",
+    "submission_url": "https://codeforces.com/contest/1447/submission/98460942",
+    "tags": [
+      "greedy",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Nov/15/2020 20:39"
+  },
   "CF98501775": {
     "contest_id": 1447,
     "language": "Java 8",
