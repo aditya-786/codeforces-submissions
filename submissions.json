@@ -2346,6 +2346,23 @@
     ],
     "timestamp": "Jul/17/2021 22:47"
   },
+  "CF98715169": {
+    "contest_id": 1440,
+    "language": "Java 8",
+    "path": "codeforces\\1440\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sum of Medians",
+    "problem_url": "https://codeforces.com/contest/1440/problem/B",
+    "submission_id": "CF98715169",
+    "submission_url": "https://codeforces.com/contest/1440/submission/98715169",
+    "tags": [
+      "greedy",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Nov/17/2020 21:06"
+  },
   "CF98733384": {
     "contest_id": 1440,
     "language": "Java 8",
