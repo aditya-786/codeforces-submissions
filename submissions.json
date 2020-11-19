@@ -2346,6 +2346,22 @@
     ],
     "timestamp": "Jul/17/2021 22:47"
   },
+  "CF98902242": {
+    "contest_id": 1452,
+    "language": "Java 11",
+    "path": "codeforces\\1452\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Robot Program",
+    "problem_url": "https://codeforces.com/contest/1452/problem/A",
+    "submission_id": "CF98902242",
+    "submission_url": "https://codeforces.com/contest/1452/submission/98902242",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Nov/19/2020 20:17"
+  },
   "CF98918745": {
     "contest_id": 1452,
     "language": "Java 11",
