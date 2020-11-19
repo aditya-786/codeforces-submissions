@@ -1,4 +1,20 @@
 {
+  "AC18220322": {
+    "contest_id": "abc073",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc073\\C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Write and Erase",
+    "problem_url": "https://atcoder.jp/contests/abc073/tasks/abc073_c",
+    "submission_id": "AC18220322",
+    "submission_url": "https://atcoder.jp/contests/abc073/submissions/18220322",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Nov/19/2020 15:33"
+  },
   "AC18307522": {
     "contest_id": "abc184",
     "language": "Java (OpenJDK 11.0.6)",
