@@ -2346,6 +2346,22 @@
     ],
     "timestamp": "Jul/17/2021 22:47"
   },
+  "CF98918745": {
+    "contest_id": 1452,
+    "language": "Java 11",
+    "path": "codeforces\\1452\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Two Brackets",
+    "problem_url": "https://codeforces.com/contest/1452/problem/C",
+    "submission_id": "CF98918745",
+    "submission_url": "https://codeforces.com/contest/1452/submission/98918745",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Nov/19/2020 20:44"
+  },
   "CF99025914": {
     "contest_id": 1452,
     "language": "Java 11",
