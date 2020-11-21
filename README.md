@@ -190,8 +190,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 45 | [B - Quizzes](https://atcoder.jp/contests/abc184/tasks/abc184_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc184/B.java) | `AtCoder` `*200` | Nov/22/2020 17:35 | 
 44 | [A - Determinant](https://atcoder.jp/contests/abc184/tasks/abc184_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc184/A.java) | `AtCoder` `*100` | Nov/22/2020 17:31 | 
 43 | [C - String Equality](https://codeforces.com/contest/1451/problem/C) | [Java 8](./codeforces/1451/C.java) | `dp` `greedy` `hashing` `implementation` `strings` `*1400` | Nov/22/2020 16:34 | 
-42 | [B - Non-Substring Subsequence](https://codeforces.com/contest/1451/problem/B) | [Java 8](./codeforces/1451/B.java) | `dp` `greedy` `implementation` `strings` `*900` | Nov/21/2020 20:42 | 
-41 | [A - Subtract or Divide](https://codeforces.com/contest/1451/problem/A) | [Java 8](./codeforces/1451/A.java) | `greedy` `math` `*800` | Nov/21/2020 20:27 | 
+42 | [A - Subtract or Divide](https://codeforces.com/contest/1451/problem/A) | [Java 8](./codeforces/1451/A.java) | `greedy` `math` `*800` | Nov/22/2020 01:15 | 
+41 | [B - Non-Substring Subsequence](https://codeforces.com/contest/1451/problem/B) | [Java 8](./codeforces/1451/B.java) | `dp` `greedy` `implementation` `strings` `*900` | Nov/21/2020 20:42 | 
 40 | [B - Toy Blocks](https://codeforces.com/contest/1452/problem/B) | [Java 8](./codeforces/1452/B.java) | `binary search` `greedy` `math` `sortings` `*1400` | Nov/20/2020 17:23 | 
 39 | [C - Two Brackets](https://codeforces.com/contest/1452/problem/C) | [Java 11](./codeforces/1452/C.java) | `greedy` `*800` | Nov/19/2020 20:44 | 
 38 | [A - Robot Program](https://codeforces.com/contest/1452/problem/A) | [Java 11](./codeforces/1452/A.java) | `math` `*800` | Nov/19/2020 20:17 | 
