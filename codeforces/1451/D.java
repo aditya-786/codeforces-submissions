@@ -320,8 +320,8 @@ public class Main {
     {
         try
         {
-            FastReader fr = new FastReader();
-            //Reader fr = new Reader();
+            //FastReader fr = new FastReader();
+            Reader fr = new Reader();
 
             try (OutputStream out = new BufferedOutputStream(System.out))
             {
@@ -337,9 +337,16 @@ public class Main {
 
                     while (true)
                     {
-                        if ((x+k)*(x+k) + (y+k)*(y+k) <= d*d)
+//                        if ((x+k)*(x+k) + (y+k)*(y+k) <= d*d)
+//                        {
+//                            if (x<y) x+=k;
+//                            else y+=k;
+//
+//                            count++;
+//                        }
+                        if ((x+k)*(x+k) + (y)*(y) <= d*d && (x)*(x) + (y+k)*(y+k) <= d*d)
                         {
-                            if (x<=y) x+=k;
+                            if (x<y) x+=k;
                             else y+=k;
 
                             count++;
