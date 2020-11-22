@@ -1,4 +1,20 @@
 {
+  "AC18312821": {
+    "contest_id": "abc184",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc184\\B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Quizzes",
+    "problem_url": "https://atcoder.jp/contests/abc184/tasks/abc184_b",
+    "submission_id": "AC18312821",
+    "submission_url": "https://atcoder.jp/contests/abc184/submissions/18312821",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Nov/22/2020 17:35"
+  },
   "AC18724990": {
     "contest_id": "abc185",
     "language": "Java (OpenJDK 11.0.6)",
