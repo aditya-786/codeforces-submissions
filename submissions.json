@@ -1,4 +1,20 @@
 {
+  "AC18307522": {
+    "contest_id": "abc184",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc184\\A.java",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Determinant",
+    "problem_url": "https://atcoder.jp/contests/abc184/tasks/abc184_a",
+    "submission_id": "AC18307522",
+    "submission_url": "https://atcoder.jp/contests/abc184/submissions/18307522",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Nov/22/2020 17:31"
+  },
   "AC18312821": {
     "contest_id": "abc184",
     "language": "Java (OpenJDK 11.0.6)",
