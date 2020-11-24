@@ -301,39 +301,6 @@ public class Main {
         }
     }
 
-    public static ArrayList<Long> primeFactors(long n)
-    {
-        // Print the number of 2s that divide n
-
-        ArrayList<Long> list = new ArrayList<>();
-
-        while (n%2==0)
-        {
-            list.add(2L);
-            n /= 2;
-        }
-
-        // n must be odd at this point.  So we can
-        // skip one element (Note i = i +2)
-        for (long i = 3; i <= Math.sqrt(n); i+= 2)
-        {
-            // While i divides n, print i and divide n
-            while (n%i == 0)
-            {
-                //System.out.print(i + " ");
-                list.add(i);
-                n /= i;
-            }
-        }
-
-        // This condition is to handle the case whien
-        // n is a prime number greater than 2
-        if (n > 2) list.add(n);
-            //System.out.print(n);
-
-        return list;
-    }
-
     public static void main(String[] args) throws java.lang.Exception
     {
         try
@@ -353,40 +320,30 @@ public class Main {
                     int n = r.ni();
 
                     List<Integer> list = new ArrayList<>();
-                    TreeMap<Integer,Integer> tm = new TreeMap<>();
+                    for (int i=0;i<n;i++) list.add(r.ni());
 
-                    for (int i=0;i<n;i++)
+                    int[] arr = new int[n+1];
+                    for (int ele : list) arr[ele]++;
+
+                    long ans = n+2;
+
+                    for (int i=1;i<n+1;i++)
                     {
-                        int ele = r.ni();
-
-                        list.add(ele);
-
-                        if (tm.containsKey(ele)) tm.put(ele,tm.get(ele)+1);
-                        else tm.put(ele,1);
+                        if (arr[i] == 1) ans = Math.min(ans,i);
                     }
 
-                    int ele = 0;
-                    boolean ff = false;
-                    for (Map.Entry<Integer,Integer> entry : tm.entrySet())
+                    if (ans<=n)
                     {
-                        int val = entry.getKey();
-                        int freq = entry.getValue();
-
-                        if (freq == 1)
+                        for (int i=0;i<n;i++)
                         {
-                            ff = true;
-                            ele = val;
-                            break;
+                            if (list.get(i) == ans)
+                            {
+                                println(i+1);
+                                break;
+                            }
                         }
                     }
-
-                    if (!ff) println(-1);
-                    else
-                    {
-                        int ind = list.indexOf(ele);
-
-                        println(ind+1);
-                    }
+                    else println(-1);
                 }
             }
         }
