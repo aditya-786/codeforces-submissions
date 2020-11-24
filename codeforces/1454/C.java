@@ -11,34 +11,20 @@ import java.util.*;
         Never Give Up
  */
 
-public class Main
-{
+public class Main {
 
-    static class AdityaFastIO
+    static class FastReader
     {
-        final private int BUFFER_SIZE = 1 << 16;
-        private final DataInputStream din;
-        private final byte[] buffer;
-        private int bufferPointer, bytesRead;
         BufferedReader br;
         StringTokenizer st;
 
-        public AdityaFastIO()
+        public FastReader()
         {
-            din = new DataInputStream(System.in);
-            buffer = new byte[BUFFER_SIZE];
-            bufferPointer = bytesRead = 0;
-            br = new BufferedReader(new InputStreamReader(System.in));
+            br = new BufferedReader(new
+                    InputStreamReader(System.in));
         }
 
-        public AdityaFastIO(String file_name) throws IOException
-        {
-            din = new DataInputStream(new FileInputStream(file_name));
-            buffer = new byte[BUFFER_SIZE];
-            bufferPointer = bytesRead = 0;
-        }
-
-        String word()
+        String next()
         {
             while (st == null || !st.hasMoreElements())
             {
@@ -54,7 +40,7 @@ public class Main
             return st.nextToken();
         }
 
-        String line()
+        String nextLine()
         {
             String str = "";
             try
@@ -66,6 +52,28 @@ public class Main
                 e.printStackTrace();
             }
             return str;
+        }
+    }
+
+    static class Reader
+    {
+        final private int BUFFER_SIZE = 1 << 16;
+        private final DataInputStream din;
+        private final byte[] buffer;
+        private int bufferPointer, bytesRead;
+
+        public Reader()
+        {
+            din = new DataInputStream(System.in);
+            buffer = new byte[BUFFER_SIZE];
+            bufferPointer = bytesRead = 0;
+        }
+
+        public Reader(String file_name) throws IOException
+        {
+            din = new DataInputStream(new FileInputStream(file_name));
+            buffer = new byte[BUFFER_SIZE];
+            bufferPointer = bytesRead = 0;
         }
 
         public String readLine() throws IOException
@@ -297,7 +305,8 @@ public class Main
     {
         try
         {
-            AdityaFastIO r = new AdityaFastIO();
+            FastReader fr = new FastReader();
+            Reader r = new Reader();
 
             try (OutputStream out = new BufferedOutputStream(System.out))
             {
@@ -348,6 +357,7 @@ public class Main
                     }
 
                     println(ans);
+ 
                 }
             }
         }
