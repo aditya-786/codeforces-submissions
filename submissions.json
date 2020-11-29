@@ -4709,5 +4709,22 @@
       "*900"
     ],
     "timestamp": "Nov/21/2020 20:42"
+  },
+  "CF99866947": {
+    "contest_id": 1457,
+    "language": "Java 11",
+    "path": "codeforces\\1457\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Repainting Street",
+    "problem_url": "https://codeforces.com/contest/1457/problem/B",
+    "submission_id": "CF99866947",
+    "submission_url": "https://codeforces.com/contest/1457/submission/99866947",
+    "tags": [
+      "brute force",
+      "greedy",
+      "*1100"
+    ],
+    "timestamp": "Nov/29/2020 13:30"
   }
 }
