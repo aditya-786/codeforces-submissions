@@ -4710,6 +4710,23 @@
     ],
     "timestamp": "Nov/21/2020 20:42"
   },
+  "CF99847080": {
+    "contest_id": 1457,
+    "language": "Java 11",
+    "path": "codeforces\\1457\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Prison Break",
+    "problem_url": "https://codeforces.com/contest/1457/problem/A",
+    "submission_id": "CF99847080",
+    "submission_url": "https://codeforces.com/contest/1457/submission/99847080",
+    "tags": [
+      "brute force",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Nov/29/2020 12:47"
+  },
   "CF99866947": {
     "contest_id": 1457,
     "language": "Java 11",
