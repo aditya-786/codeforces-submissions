@@ -479,6 +479,23 @@
     ],
     "timestamp": "Jul/10/2021 17:35"
   },
+  "CF100018353": {
+    "contest_id": 1455,
+    "language": "Java 8",
+    "path": "codeforces\\1455\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Jumps",
+    "problem_url": "https://codeforces.com/contest/1455/problem/B",
+    "submission_id": "CF100018353",
+    "submission_url": "https://codeforces.com/contest/1455/submission/100018353",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Nov/30/2020 20:47"
+  },
   "CF100020497": {
     "contest_id": 1455,
     "language": "Java 8",
