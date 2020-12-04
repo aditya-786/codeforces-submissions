@@ -479,6 +479,22 @@
     ],
     "timestamp": "Jul/10/2021 17:35"
   },
+  "CF100356014": {
+    "contest_id": 1453,
+    "language": "Java 8",
+    "path": "codeforces\\1453\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cancel the Trains",
+    "problem_url": "https://codeforces.com/contest/1453/problem/A",
+    "submission_id": "CF100356014",
+    "submission_url": "https://codeforces.com/contest/1453/submission/100356014",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Dec/04/2020 18:43"
+  },
   "CF100540746": {
     "contest_id": 1450,
     "language": "PyPy 3",
