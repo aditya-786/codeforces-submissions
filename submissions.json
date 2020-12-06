@@ -479,6 +479,24 @@
     ],
     "timestamp": "Jul/10/2021 17:35"
   },
+  "CF100560276": {
+    "contest_id": 1450,
+    "language": "Java 8",
+    "path": "codeforces\\1450\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Balls of Steel",
+    "problem_url": "https://codeforces.com/contest/1450/problem/B",
+    "submission_id": "CF100560276",
+    "submission_url": "https://codeforces.com/contest/1450/submission/100560276",
+    "tags": [
+      "brute force",
+      "geometry",
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "Dec/06/2020 21:22"
+  },
   "CF100717536": {
     "contest_id": 1139,
     "language": "Java 8",
