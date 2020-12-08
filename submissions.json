@@ -479,6 +479,24 @@
     ],
     "timestamp": "Jul/10/2021 17:35"
   },
+  "CF100717572": {
+    "contest_id": 612,
+    "language": "Java 8",
+    "path": "codeforces\\612\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Replace To Make Regular Bracket Sequence",
+    "problem_url": "https://codeforces.com/contest/612/problem/C",
+    "submission_id": "CF100717572",
+    "submission_url": "https://codeforces.com/contest/612/submission/100717572",
+    "tags": [
+      "data structures",
+      "expression parsing",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Dec/08/2020 23:04"
+  },
   "CF100750781": {
     "contest_id": 53,
     "language": "Java 8",
