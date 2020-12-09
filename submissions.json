@@ -479,6 +479,23 @@
     ],
     "timestamp": "Jul/10/2021 17:35"
   },
+  "CF100750781": {
+    "contest_id": 53,
+    "language": "Java 8",
+    "path": "codeforces\\53\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Blog Photo",
+    "problem_url": "https://codeforces.com/contest/53/problem/B",
+    "submission_id": "CF100750781",
+    "submission_url": "https://codeforces.com/contest/53/submission/100750781",
+    "tags": [
+      "binary search",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Dec/09/2020 14:47"
+  },
   "CF100787463": {
     "contest_id": 965,
     "language": "Java 8",
