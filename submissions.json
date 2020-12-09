@@ -479,6 +479,22 @@
     ],
     "timestamp": "Jul/10/2021 17:35"
   },
+  "CF100787463": {
+    "contest_id": 965,
+    "language": "Java 8",
+    "path": "codeforces\\965\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Greedy Arkady",
+    "problem_url": "https://codeforces.com/contest/965/problem/C",
+    "submission_id": "CF100787463",
+    "submission_url": "https://codeforces.com/contest/965/submission/100787463",
+    "tags": [
+      "math",
+      "*2000"
+    ],
+    "timestamp": "Dec/09/2020 23:41"
+  },
   "CF100915756": {
     "contest_id": 1461,
     "language": "Java 8",
