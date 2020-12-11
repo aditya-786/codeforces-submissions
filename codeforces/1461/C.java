@@ -11,7 +11,7 @@ import java.util.*;
 
         Believe In yourself, Everything is possible.
 
-        Never Give Up ... Failure is the biggest success 
+        Never Give Up ... Failure is the biggest success
  */
 
 public class Main {
