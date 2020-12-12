@@ -479,6 +479,22 @@
     ],
     "timestamp": "Jul/10/2021 17:35"
   },
+  "CF101063607": {
+    "contest_id": 1311,
+    "language": "Java 8",
+    "path": "codeforces\\1311\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Perform the Combo",
+    "problem_url": "https://codeforces.com/contest/1311/problem/C",
+    "submission_id": "CF101063607",
+    "submission_url": "https://codeforces.com/contest/1311/submission/101063607",
+    "tags": [
+      "brute force",
+      "*1300"
+    ],
+    "timestamp": "Dec/13/2020 04:38"
+  },
   "CF101113307": {
     "contest_id": 1203,
     "language": "Java 8",
