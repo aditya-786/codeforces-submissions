@@ -479,6 +479,22 @@
     ],
     "timestamp": "Jul/10/2021 17:35"
   },
+  "CF101113307": {
+    "contest_id": 1203,
+    "language": "Java 8",
+    "path": "codeforces\\1203\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Circle of Students",
+    "problem_url": "https://codeforces.com/contest/1203/problem/A",
+    "submission_id": "CF101113307",
+    "submission_url": "https://codeforces.com/contest/1203/submission/101113307",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Dec/13/2020 20:45"
+  },
   "CF101265593": {
     "contest_id": 1462,
     "language": "Java 8",
