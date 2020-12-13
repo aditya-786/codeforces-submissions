@@ -1,4 +1,20 @@
 {
+  "AC18759402": {
+    "contest_id": "abc185",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc185\\C.java",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Duodecim Ferra",
+    "problem_url": "https://atcoder.jp/contests/abc185/tasks/abc185_c",
+    "submission_id": "AC18759402",
+    "submission_url": "https://atcoder.jp/contests/abc185/submissions/18759402",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Dec/13/2020 18:58"
+  },
   "AC18827761": {
     "contest_id": "abc180",
     "language": "Java (OpenJDK 11.0.6)",
