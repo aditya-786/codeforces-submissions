@@ -217,8 +217,8 @@ public class Main {
 
     public static void main(String[] args) throws java.lang.Exception {
         try {
-            AdityaFastIO r = new AdityaFastIO();
-            //FastReader r = new FastReader();
+            //AdityaFastIO r = new AdityaFastIO();
+            FastReader r = new FastReader();
             try (OutputStream out = new BufferedOutputStream(System.out)) {
                 boolean tc = true;
                 int testcases = tc ? r.ni() : 1;
