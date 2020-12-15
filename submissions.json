@@ -479,6 +479,24 @@
     ],
     "timestamp": "Jul/10/2021 17:35"
   },
+  "CF101325747": {
+    "contest_id": 1462,
+    "language": "Java 8",
+    "path": "codeforces\\1462\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Add to Neighbour and Remove",
+    "problem_url": "https://codeforces.com/contest/1462/problem/D",
+    "submission_id": "CF101325747",
+    "submission_url": "https://codeforces.com/contest/1462/submission/101325747",
+    "tags": [
+      "greedy",
+      "math",
+      "number theory",
+      "*1400"
+    ],
+    "timestamp": "Dec/15/2020 21:31"
+  },
   "CF101336619": {
     "contest_id": 1462,
     "language": "Java 8",
