@@ -496,6 +496,24 @@
     ],
     "timestamp": "Dec/17/2020 20:41"
   },
+  "CF101569627": {
+    "contest_id": 1463,
+    "language": "Java 8",
+    "path": "codeforces\\1463\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Find The Array",
+    "problem_url": "https://codeforces.com/contest/1463/problem/B",
+    "submission_id": "CF101569627",
+    "submission_url": "https://codeforces.com/contest/1463/submission/101569627",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Dec/17/2020 21:43"
+  },
   "CF101727389": {
     "contest_id": 1459,
     "language": "Java 8",
