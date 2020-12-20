@@ -513,6 +513,23 @@
     ],
     "timestamp": "Dec/19/2020 16:38"
   },
+  "CF101866300": {
+    "contest_id": 1465,
+    "language": "Java 8",
+    "path": "codeforces\\1465\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "In-game Chat",
+    "problem_url": "https://codeforces.com/contest/1465/problem/A",
+    "submission_id": "CF101866300",
+    "submission_url": "https://codeforces.com/contest/1465/submission/101866300",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Dec/20/2020 20:42"
+  },
   "CF101877074": {
     "contest_id": 1465,
     "language": "Java 8",
