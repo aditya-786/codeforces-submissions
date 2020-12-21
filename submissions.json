@@ -1,4 +1,20 @@
 {
+  "AC18920788": {
+    "contest_id": "abc103",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc103\\B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "String Rotation",
+    "problem_url": "https://atcoder.jp/contests/abc103/tasks/abc103_b",
+    "submission_id": "AC18920788",
+    "submission_url": "https://atcoder.jp/contests/abc103/submissions/18920788",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Dec/21/2020 13:27"
+  },
   "AC18921207": {
     "contest_id": "abc170",
     "language": "Java (OpenJDK 11.0.6)",
