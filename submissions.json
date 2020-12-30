@@ -551,6 +551,24 @@
     ],
     "timestamp": "Dec/28/2020 22:04"
   },
+  "CF102782317": {
+    "contest_id": 1466,
+    "language": "Java 8",
+    "path": "codeforces\\1466\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Bovine Dilemma",
+    "problem_url": "https://codeforces.com/contest/1466/problem/A",
+    "submission_id": "CF102782317",
+    "submission_url": "https://codeforces.com/contest/1466/submission/102782317",
+    "tags": [
+      "brute force",
+      "geometry",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Dec/30/2020 20:14"
+  },
   "CF102798838": {
     "contest_id": 1466,
     "language": "Java 8",
