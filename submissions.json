@@ -1,4 +1,21 @@
 {
+  "CF103082288": {
+    "contest_id": 1352,
+    "language": "Java 11",
+    "path": "codeforces\\1352\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sum of Round Numbers",
+    "problem_url": "https://codeforces.com/contest/1352/problem/A",
+    "submission_id": "CF103082288",
+    "submission_url": "https://codeforces.com/contest/1352/submission/103082288",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/03/2021 14:42"
+  },
   "CF103083772": {
     "contest_id": 1352,
     "language": "Java 11",
