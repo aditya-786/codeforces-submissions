@@ -621,6 +621,22 @@
     ],
     "timestamp": "Jan/03/2021 15:13"
   },
+  "CF103085407": {
+    "contest_id": 1352,
+    "language": "Java 8",
+    "path": "codeforces\\1352\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Alice, Bob and Candies",
+    "problem_url": "https://codeforces.com/contest/1352/problem/D",
+    "submission_id": "CF103085407",
+    "submission_url": "https://codeforces.com/contest/1352/submission/103085407",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Jan/03/2021 15:32"
+  },
   "CF103088520": {
     "contest_id": 1352,
     "language": "GNU C++11",
