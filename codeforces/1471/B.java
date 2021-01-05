@@ -218,9 +218,17 @@ public class Main {
 
     public static class Pair {
         int first;int second;
-        public Pair(int first, int second) { this.first = first;this.second = second; }
+        public Pair(int n, int p) { this.first = n;this.second = p; }
         public String toString() { return "(" + first + "," + second + ")"; }
     }
+
+//    static class Pair<X, Y> {
+//        public X first;
+//        public Y second;
+//        Pair(X first, Y second) { this.first = first;this.second = second; }
+//        public static <X, Y> Pair<X, Y> of(X a, Y b) { return new Pair<>(a, b); }
+//        public String toString() { return "(" + first + "," + second + ")"; }
+//    }
 
     static boolean isCollectionsSorted(List<Integer> list) {
         if (list.size() == 0 || list.size() == 1) return true;
