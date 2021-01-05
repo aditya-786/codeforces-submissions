@@ -217,9 +217,18 @@ public class Main {
     }
 
     public static class Pair {
-        int first;int second;
-        public Pair(int n, int p) { this.first = n;this.second = p; }
-        public String toString() { return "(" + first + "," + second + ")"; }
+        int first;
+        int second;
+
+        public Pair(int n, int p) {
+            this.first = n;
+            this.second = p;
+        }
+
+        public String toString() {
+            return first + " " + second;
+        }
+
     }
 
 //    static class Pair<X, Y> {
