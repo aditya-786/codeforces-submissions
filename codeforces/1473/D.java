@@ -25,7 +25,7 @@ public class Main {
 
     static void update(int index, int beg, int end, int pos, int ele) {
         if (pos < beg || pos > end) return;
-        if (beg != end) { 
+        if (beg != end) {
             int mid = (beg + end)>>1;
             update(2 * index, beg, mid, pos, ele);
             update(2 * index + 1, mid + 1, end, pos, ele);
