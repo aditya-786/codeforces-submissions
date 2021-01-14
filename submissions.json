@@ -621,6 +621,25 @@
     ],
     "timestamp": "Jan/03/2021 15:13"
   },
+  "CF104354062": {
+    "contest_id": 1473,
+    "language": "Java 8",
+    "path": "codeforces\\1473\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Program",
+    "problem_url": "https://codeforces.com/contest/1473/problem/D",
+    "submission_id": "CF104354062",
+    "submission_url": "https://codeforces.com/contest/1473/submission/104354062",
+    "tags": [
+      "data structures",
+      "dp",
+      "implementation",
+      "strings",
+      "*1700"
+    ],
+    "timestamp": "Jan/14/2021 22:55"
+  },
   "CF104850150": {
     "contest_id": 1474,
     "language": "Java 8",
