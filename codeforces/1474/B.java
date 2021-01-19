@@ -28,8 +28,8 @@ public class Main {
 
     static void run(){
         boolean tc = true;
-        AdityaFastIO r = new AdityaFastIO();
-        //FastReader r = new FastReader();
+        //AdityaFastIO r = new AdityaFastIO();
+        FastReader r = new FastReader();
 
         try (OutputStream out = new BufferedOutputStream(System.out)) {
             int testcases = tc ? r.ni() : 1;
@@ -42,7 +42,7 @@ public class Main {
                 long[] a={0,0};
                 long count=0;
                 long swap=1;
-                for (long aLong : prime) {
+                for (Long aLong : prime) {
                     if (aLong - swap >= d) {
                         a[(int) count] = aLong;
                         count += 1;

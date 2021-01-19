@@ -621,6 +621,26 @@
     ],
     "timestamp": "Jan/03/2021 15:13"
   },
+  "CF104850292": {
+    "contest_id": 1474,
+    "language": "Java 8",
+    "path": "codeforces\\1474\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Different Divisors",
+    "problem_url": "https://codeforces.com/contest/1474/problem/B",
+    "submission_id": "CF104850292",
+    "submission_url": "https://codeforces.com/contest/1474/submission/104850292",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "number theory",
+      "*1000"
+    ],
+    "timestamp": "Jan/20/2021 01:07"
+  },
   "CF104850327": {
     "contest_id": 1474,
     "language": "Java 8",
