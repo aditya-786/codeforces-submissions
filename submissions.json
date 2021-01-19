@@ -621,6 +621,22 @@
     ],
     "timestamp": "Jan/03/2021 15:13"
   },
+  "CF104850150": {
+    "contest_id": 1474,
+    "language": "Java 8",
+    "path": "codeforces\\1474\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Puzzle From the Future",
+    "problem_url": "https://codeforces.com/contest/1474/problem/A",
+    "submission_id": "CF104850150",
+    "submission_url": "https://codeforces.com/contest/1474/submission/104850150",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Jan/20/2021 01:05"
+  },
   "CF104850292": {
     "contest_id": 1474,
     "language": "Java 8",
