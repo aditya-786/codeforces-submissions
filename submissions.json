@@ -621,6 +621,24 @@
     ],
     "timestamp": "Jan/03/2021 15:13"
   },
+  "CF105473654": {
+    "contest_id": 1475,
+    "language": "Java 8",
+    "path": "codeforces\\1475\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "New Year's Number",
+    "problem_url": "https://codeforces.com/contest/1475/problem/B",
+    "submission_id": "CF105473654",
+    "submission_url": "https://codeforces.com/contest/1475/submission/105473654",
+    "tags": [
+      "brute force",
+      "dp",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Jan/26/2021 17:14"
+  },
   "CF105770326": {
     "contest_id": 1478,
     "language": "Java 8",
