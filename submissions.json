@@ -621,6 +621,25 @@
     ],
     "timestamp": "Jan/03/2021 15:13"
   },
+  "CF105770432": {
+    "contest_id": 1478,
+    "language": "Java 8",
+    "path": "codeforces\\1478\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Nezzar and Lucky Number",
+    "problem_url": "https://codeforces.com/contest/1478/problem/B",
+    "submission_id": "CF105770432",
+    "submission_url": "https://codeforces.com/contest/1478/submission/105770432",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jan/28/2021 22:55"
+  },
   "CF107639385": {
     "contest_id": 1490,
     "language": "Java 11",
