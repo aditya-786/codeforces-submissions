@@ -1,4 +1,22 @@
 {
+  "CF109912435": {
+    "contest_id": 1501,
+    "language": "Java 8",
+    "path": "codeforces\\1501\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Napoleon Cake",
+    "problem_url": "https://codeforces.com/contest/1501/problem/B",
+    "submission_id": "CF109912435",
+    "submission_url": "https://codeforces.com/contest/1501/submission/109912435",
+    "tags": [
+      "dp",
+      "implementation",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Mar/13/2021 22:25"
+  },
   "CF109914975": {
     "contest_id": 1501,
     "language": "Java 8",
