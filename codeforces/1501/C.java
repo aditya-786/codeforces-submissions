@@ -33,7 +33,7 @@ public class Main {
                 list.add(0);
                 for (int i=0;i<n;i++) list.add(r.ni());
 
-                Map<Integer, PairC<Integer, Integer>> map = new HashMap<>();
+                Map<Integer, Pair> map = new HashMap<>();
                 for (int i=1;i<=n;i++)
                     for (int j = i + 1; j <= n; j++) {
                         int key = list.get(i) + list.get(j);
@@ -46,7 +46,7 @@ public class Main {
                                 continue here;
                             }
                         } else {
-                            map.put(key, new PairC(i, j));
+                            map.put(key, new Pair(i, j));
                         }
                     }
 
