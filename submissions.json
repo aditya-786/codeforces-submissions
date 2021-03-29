@@ -1,4 +1,21 @@
 {
+  "CF111396090": {
+    "contest_id": 1498,
+    "language": "Java 8",
+    "path": "codeforces\\1498\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "GCD Sum",
+    "problem_url": "https://codeforces.com/contest/1498/problem/A",
+    "submission_id": "CF111396090",
+    "submission_url": "https://codeforces.com/contest/1498/submission/111396090",
+    "tags": [
+      "brute force",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/29/2021 21:35"
+  },
   "CF112858152": {
     "contest_id": 1511,
     "language": "Java 8",
