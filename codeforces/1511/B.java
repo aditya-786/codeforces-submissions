@@ -26,8 +26,12 @@ public class Main {
             // Solution Starts Here
 
             here : while (testcases --> 0){
+                long A = (long) Math.pow(10,r.ni()-1);
+                long B = (long) Math.pow(10,r.ni()-1);
+                long C = (long) Math.pow(10,r.ni()-1);
 
-                out.write(((long) Math.pow(10,r.ni()-1) + " " + ((long) Math.pow(10,r.ni()-1)+(long) Math.pow(10,r.ni()-1)) + "\n").getBytes());
+                out.write((A + " " + (B + C) + " ").getBytes());
+                out.write(("\n").getBytes());
 
             }
             // Solution Ends Here
