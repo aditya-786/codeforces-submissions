@@ -301,6 +301,6 @@ public class Main {
         if (list.size() == 0 || list.size() == 1) return true;
         for (int i = 1; i < list.size(); i++) if (list.get(i) >= list.get(i - 1)) return false;
         return true;
-    }   
+    }
 
 }
