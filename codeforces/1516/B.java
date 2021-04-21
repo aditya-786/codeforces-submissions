@@ -14,8 +14,8 @@ public class Main {
 
     static void run(){
         boolean tc = true;
-        AdityaFastIO r = new AdityaFastIO();
-        // FastReader r = new FastReader();
+        //AdityaFastIO r = new AdityaFastIO();
+        FastReader r = new FastReader();
 
         try (OutputStream out = new BufferedOutputStream(System.out)) {
 
@@ -27,17 +27,10 @@ public class Main {
             // Solution Starts Here
 
             start : while (testcases --> 0){
-
+                
                 int n = r.ni();
 
-                List<Integer> list = IntStream.range(0, n).mapToObj(i -> {
-                    try {
-                        return r.ni();
-                    } catch (IOException e) {
-                        e.printStackTrace();
-                    }
-                    return null;
-                }).collect(Collectors.toList());
+                List<Integer> list = IntStream.range(0, n).mapToObj(i -> r.ni()).collect(Collectors.toList());
 
                 long xor = 0;
                 for(int ele :list) xor^=ele;
