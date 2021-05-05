@@ -38,11 +38,11 @@ public class Main {
                 if (low <= high) {
                     do {
                         int mid = low+(high-low)/2;
-                        out.write(("? " + 1 + " " + mid).getBytes());
-                        out.write(("\n").getBytes());
-                        out.flush();
-//                    System.out.println(("? 1 " + mid));
-//                    out.flush();
+//                        out.write(("? " + 1 + " " + mid + " ").getBytes());
+//                        out.write(("\n").getBytes());
+//                        out.flush();
+                    System.out.println(("? 1 " + mid));
+                    out.flush();
                     int x = r.ni();
                         out.flush();
                         if (mid - x < k) low = mid + 1;
@@ -53,11 +53,11 @@ public class Main {
                     } while (low <= high);
                 }
 
-                out.write(("! " + res).getBytes());
-                out.write(("\n").getBytes());
-                out.flush();
-//                System.out.println(("! " + res));
+//                out.write(("! " + res + " ").getBytes());
+//                out.write(("\n").getBytes());
 //                out.flush();
+                System.out.println(("! " + res));
+                out.flush();
                 //return;
 
             }
