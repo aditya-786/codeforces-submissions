@@ -35,8 +35,8 @@ public class Main {
                 int high = n;
                 int res = low;
 
-                if (low <= high) {
-                    do {
+                while (low <= high) {
+                    //do {
                         int mid = low+(high-low)/2;
 //                        out.write(("? " + 1 + " " + mid + " ").getBytes());
 //                        out.write(("\n").getBytes());
@@ -50,7 +50,7 @@ public class Main {
                             res = mid;
                             high = mid - 1;
                         }
-                    } while (low <= high);
+                    //} while (low <= high);
                 }
 
 //                out.write(("! " + res + " ").getBytes());
