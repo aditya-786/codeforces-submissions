@@ -1,4 +1,21 @@
 {
+  "CF115228410": {
+    "contest_id": 1520,
+    "language": "Java 8",
+    "path": "codeforces\\1520\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Do Not Be Distracted!",
+    "problem_url": "https://codeforces.com/contest/1520/problem/A",
+    "submission_id": "CF115228410",
+    "submission_url": "https://codeforces.com/contest/1520/submission/115228410",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/05/2021 20:19"
+  },
   "CF115257825": {
     "contest_id": 1520,
     "language": "Java 8",
