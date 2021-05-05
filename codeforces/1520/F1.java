@@ -29,6 +29,8 @@ public class Main {
                 int t = r.ni();
                 int k = r.ni();
 
+                //out.flush();
+
                 int low = 1;
                 int high = n;
                 int res = low;
@@ -39,7 +41,9 @@ public class Main {
                         out.write(("? " + 1 + " " + mid).getBytes());
                         out.write(("\n").getBytes());
                         out.flush();
-                        int x = r.ni();
+//                    System.out.println(("? 1 " + mid));
+//                    out.flush();
+                    int x = r.ni();
                         out.flush();
                         if (mid - x < k) low = mid + 1;
                         else {
@@ -52,7 +56,10 @@ public class Main {
                 out.write(("! " + res).getBytes());
                 out.write(("\n").getBytes());
                 out.flush();
-                return;
+//                System.out.println(("! " + res));
+//                out.flush();
+                //return;
+
             }
             // Solution Ends Here
         } catch (IOException e) {
