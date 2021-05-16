@@ -1,4 +1,21 @@
 {
+  "CF116386600": {
+    "contest_id": 1525,
+    "language": "Java 11",
+    "path": "codeforces\\1525\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Potion-making",
+    "problem_url": "https://codeforces.com/contest/1525/problem/A",
+    "submission_id": "CF116386600",
+    "submission_url": "https://codeforces.com/contest/1525/submission/116386600",
+    "tags": [
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "May/16/2021 15:33"
+  },
   "CF116386748": {
     "contest_id": 1525,
     "language": "Java 11",
