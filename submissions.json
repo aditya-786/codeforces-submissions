@@ -1,4 +1,23 @@
 {
+  "CF116420532": {
+    "contest_id": 1525,
+    "language": "Java 11",
+    "path": "codeforces\\1525\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Armchairs",
+    "problem_url": "https://codeforces.com/contest/1525/problem/D",
+    "submission_id": "CF116420532",
+    "submission_url": "https://codeforces.com/contest/1525/submission/116420532",
+    "tags": [
+      "dp",
+      "flows",
+      "graph matchings",
+      "greedy",
+      "*1800"
+    ],
+    "timestamp": "May/16/2021 21:44"
+  },
   "CF116420554": {
     "contest_id": 1525,
     "language": "Java 8",
