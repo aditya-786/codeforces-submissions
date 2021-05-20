@@ -37,9 +37,7 @@ public class Main {
             int count = 0;
             for (char c : sb.toString().toCharArray()) if (c == '0') count++;
 
-            out.write(isPalindrome(sb) ? (count & 1) == 1 && count != 1 ? ("ALICE" + " ").getBytes() : ("BOB" + " ")
-                    .getBytes() : count == 2 && (n & 1) == 1 && sb.charAt(n >> 1) == '0' ? ("DRAW" + " ")
-                    .getBytes() : ("ALICE" + " ").getBytes());
+            out.write(isPalindrome(sb) ? (count & 1) == 1 && count != 1 ? ("ALICE" + " ").getBytes() : ("BOB" + " ").getBytes() : count == 2 && (n & 1) == 1 && sb.charAt(n >> 1) == '0' ? ("DRAW" + " ").getBytes() : ("ALICE" + " ").getBytes());
 
             out.write(("\n").getBytes());
 

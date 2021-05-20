@@ -1,4 +1,21 @@
 {
+  "CF116851933": {
+    "contest_id": 1527,
+    "language": "Java 8",
+    "path": "codeforces\\1527\\B2.java",
+    "platform": "Codeforces",
+    "problem_index": "B2",
+    "problem_name": "Palindrome Game (hard version)",
+    "problem_url": "https://codeforces.com/contest/1527/problem/B2",
+    "submission_id": "CF116851933",
+    "submission_url": "https://codeforces.com/contest/1527/submission/116851933",
+    "tags": [
+      "constructive algorithms",
+      "games",
+      "*1900"
+    ],
+    "timestamp": "May/21/2021 00:02"
+  },
   "CF116855498": {
     "contest_id": 1527,
     "language": "Java 8",
