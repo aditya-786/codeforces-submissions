@@ -1,4 +1,22 @@
 {
+  "CF117342269": {
+    "contest_id": 1529,
+    "language": "Java 8",
+    "path": "codeforces\\1529\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Eshag Loves Big Arrays",
+    "problem_url": "https://codeforces.com/contest/1529/problem/A",
+    "submission_id": "CF117342269",
+    "submission_url": "https://codeforces.com/contest/1529/submission/117342269",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/25/2021 21:56"
+  },
   "CF117343128": {
     "contest_id": 1529,
     "language": "Java 8",
