@@ -34,13 +34,22 @@ public class Main {
                 long sum = 0;
                 PriorityQueue<Long> pq = new PriorityQueue<>();
                 for (long ele : list){
-
-                    sum+=ele;
-                    count++;
-                    if (ele<0) pq.add(ele);
-                    if (sum<0){
-                        sum-=pq.poll();
-                        count--;
+                    if (sum+ele>=0){
+                        sum+=ele;
+                        count++;
+                        if (ele<0) pq.add(ele);
+                    }else{
+                        for (long e : pq){
+                            if (e<ele){
+                                if (sum-e+ele>=0){
+                                    sum-=e;
+                                    sum+=ele;
+                                    pq.remove(e);
+                                    pq.add(ele);
+                                    break ;
+                                }
+                            }
+                        }
                     }
                 }
 
