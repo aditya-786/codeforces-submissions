@@ -34,16 +34,16 @@ public class Main {
                 long sum = 0;
                 PriorityQueue<Long> pq = new PriorityQueue<>();
                 for (long ele : list){
+
                     sum+=ele;
                     count++;
                     if (ele<0) pq.add(ele);
                     if (sum<0){
-                        sum-=pq.poll(); // will not give runtime error, because we are polling only when the sum
-                                        // is negative, and if the sum is negative, we must have added the negative giving sum element
-                                        // to the priority queue :) 
+                        sum-=pq.poll();
                         count--;
                     }
                 }
+
                 out.write((count + " ").getBytes());
                 out.write(("\n").getBytes());
             }
