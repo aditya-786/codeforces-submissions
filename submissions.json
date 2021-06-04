@@ -1,4 +1,24 @@
 {
+  "CF118443469": {
+    "contest_id": 1535,
+    "language": "Java 8",
+    "path": "codeforces\\1535\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Array Reodering",
+    "problem_url": "https://codeforces.com/contest/1535/problem/B",
+    "submission_id": "CF118443469",
+    "submission_url": "https://codeforces.com/contest/1535/submission/118443469",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "number theory",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Jun/04/2021 22:30"
+  },
   "CF118444047": {
     "contest_id": 1535,
     "language": "Java 8",
