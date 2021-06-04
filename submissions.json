@@ -1,4 +1,25 @@
 {
+  "CF118444047": {
+    "contest_id": 1535,
+    "language": "Java 8",
+    "path": "codeforces\\1535\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Unstable String",
+    "problem_url": "https://codeforces.com/contest/1535/problem/C",
+    "submission_id": "CF118444047",
+    "submission_url": "https://codeforces.com/contest/1535/submission/118444047",
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "implementation",
+      "strings",
+      "two pointers",
+      "*1400"
+    ],
+    "timestamp": "Jun/04/2021 22:35"
+  },
   "CF118655450": {
     "contest_id": 1536,
     "language": "Java 8",
