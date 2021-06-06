@@ -1,4 +1,23 @@
 {
+  "CF118655815": {
+    "contest_id": 1536,
+    "language": "Java 8",
+    "path": "codeforces\\1536\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Diluc and Kaeya",
+    "problem_url": "https://codeforces.com/contest/1536/problem/C",
+    "submission_id": "CF118655815",
+    "submission_url": "https://codeforces.com/contest/1536/submission/118655815",
+    "tags": [
+      "data structures",
+      "dp",
+      "hashing",
+      "number theory",
+      "*1500"
+    ],
+    "timestamp": "Jun/06/2021 22:54"
+  },
   "CF118656617": {
     "contest_id": 1536,
     "language": "Java 8",
