@@ -1,4 +1,21 @@
 {
+  "CF118655450": {
+    "contest_id": 1536,
+    "language": "Java 8",
+    "path": "codeforces\\1536\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Omkar and Bad Story",
+    "problem_url": "https://codeforces.com/contest/1536/problem/A",
+    "submission_id": "CF118655450",
+    "submission_url": "https://codeforces.com/contest/1536/submission/118655450",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "*800"
+    ],
+    "timestamp": "Jun/06/2021 22:52"
+  },
   "CF118655547": {
     "contest_id": 1536,
     "language": "Java 8",
