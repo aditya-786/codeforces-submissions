@@ -31,12 +31,14 @@ public class Main {
 
                 int count = 0;
 
-                for (int i=0;i<n;i++) {
+                for (int i=0;i<n;i++){
                     for (char c : r.word().toCharArray()) count += (c == '#') ? 1 : 0;
                 }
 
                 long ans = powerLL(2,count);
-                out.write(((count == n*m ? ans-1 : ans) + " ").getBytes());
+                if (count == n*m) ans = (ans - 1 + MOD) % MOD;
+
+                out.write((ans + " ").getBytes());
                 out.write(("\n").getBytes());
 
             }

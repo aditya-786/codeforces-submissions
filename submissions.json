@@ -1,4 +1,23 @@
 {
+  "CF118656617": {
+    "contest_id": 1536,
+    "language": "Java 8",
+    "path": "codeforces\\1536\\E.java",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Omkar and Forest",
+    "problem_url": "https://codeforces.com/contest/1536/problem/E",
+    "submission_id": "CF118656617",
+    "submission_url": "https://codeforces.com/contest/1536/submission/118656617",
+    "tags": [
+      "combinatorics",
+      "graphs",
+      "math",
+      "shortest paths",
+      "*2300"
+    ],
+    "timestamp": "Jun/06/2021 23:00"
+  },
   "CF118659185": {
     "contest_id": 1536,
     "language": "Java 8",
