@@ -28,22 +28,21 @@ public class Main {
 
                 int n = r.ni();
                 List<Integer> list = new ArrayList<>();
-                for (int i = 0; i < n; i++) list.add(r.ni());
+                for (int i=0;i<n;i++) list.add(r.ni());
 
                 int min = Collections.min(list);
                 int max = Collections.max(list);
 
-                int ind1 = list.indexOf(min);
-                int ind2 = list.indexOf(max);
+                int ind1 = list.indexOf(min)+1;
+                int ind2 = list.indexOf(max)+1;
 
-                if (ind1 > ind2) {
-                    ind1 ^= ind2;
-                    ind2 ^= ind1;
-                    ind1 ^= ind2;
-                }
-
-                out.write((Collections.min(Arrays.asList(ind2 + 1, ind1 + 1 + n - ind2, n - ind1)) + " ").getBytes());
+                List<Integer> ans = new ArrayList<>();
+                ans.add(Math.max(ind1, ind2));
+                ans.add(n-Math.min(ind1, ind2)+1);
+                ans.add(Math.min(ind1, ind2)+(n-(Math.max(ind1, ind2))+1));
+                out.write((Collections.min(ans) + " ").getBytes());
                 out.write(("\n").getBytes());
+                
             }
             // Solution Ends Here
         } catch (IOException e) {
