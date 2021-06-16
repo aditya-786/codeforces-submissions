@@ -1,4 +1,22 @@
 {
+  "CF119663189": {
+    "contest_id": 1083,
+    "language": "Java 8",
+    "path": "codeforces\\1083\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "The Fair Nut and the Best Path",
+    "problem_url": "https://codeforces.com/contest/1083/problem/A",
+    "submission_id": "CF119663189",
+    "submission_url": "https://codeforces.com/contest/1083/submission/119663189",
+    "tags": [
+      "data structures",
+      "dp",
+      "trees",
+      "*1800"
+    ],
+    "timestamp": "Jun/17/2021 00:33"
+  },
   "CF119844810": {
     "contest_id": 1537,
     "language": "Java 8",
