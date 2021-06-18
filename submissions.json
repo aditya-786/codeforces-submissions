@@ -1,4 +1,24 @@
 {
+  "CF119920801": {
+    "contest_id": 1534,
+    "language": "Java 8",
+    "path": "codeforces\\1534\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Little Alawn's Puzzle",
+    "problem_url": "https://codeforces.com/contest/1534/problem/C",
+    "submission_id": "CF119920801",
+    "submission_url": "https://codeforces.com/contest/1534/submission/119920801",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "dsu",
+      "graphs",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Jun/19/2021 00:33"
+  },
   "CF119920887": {
     "contest_id": 1534,
     "language": "Java 11",
