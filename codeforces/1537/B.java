@@ -31,7 +31,41 @@ public class Main {
                 long i = r.nl();
                 long j = r.nl();
 
-                out.write(((n + " " + m + " " + 1 + " " + 1) + " ").getBytes());
+                List<Pair> list = new ArrayList<>();
+                list.add(new Pair(n, m));
+                list.add(new Pair(1, m));
+                list.add(new Pair(1, 1));
+                list.add(new Pair(n, 1));
+
+                long row1 = 0, col1 = 0, row2 = 0, col2 = 0;
+                long min = 0;
+
+                for (int ind1 = 0; ind1 < 4; ind1++) {
+                    for (int ind2 = 0; ind2 < 4; ind2++) {
+                        long x1 = list.get(ind1).first;
+                        long y1 = list.get(ind1).second;
+
+                        long x2 = list.get(ind2).first;
+                        long y2 = list.get(ind2).second;
+
+
+                        long ans1 = Math.abs(j - y1) + Math.abs(i - x1);
+                        long ans2 = Math.abs(y1 - y2) + Math.abs(x1 - x2);
+                        long ans3 = Math.abs(j - y2) + Math.abs(i - x2);
+
+                        long res = ans1 + ans2 + ans3;
+
+                        if (res >= min) {
+                            min = res;
+                            row1 = x1;
+                            col1 = y1;
+                            row2 = x2;
+                            col2 = y2;
+                        }
+                    }
+                }
+
+                out.write(((row1 + " " + col1 + " " + row2 + " " + col2) + " ").getBytes());
                 out.write(("\n").getBytes());
 
             }
