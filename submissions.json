@@ -1,4 +1,22 @@
 {
+  "CF119920401": {
+    "contest_id": 1534,
+    "language": "Java 8",
+    "path": "codeforces\\1534\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Histogram Ugliness",
+    "problem_url": "https://codeforces.com/contest/1534/problem/B",
+    "submission_id": "CF119920401",
+    "submission_url": "https://codeforces.com/contest/1534/submission/119920401",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jun/19/2021 00:30"
+  },
   "CF119920801": {
     "contest_id": 1534,
     "language": "Java 8",
