@@ -1,4 +1,21 @@
 {
+  "CF119920304": {
+    "contest_id": 1534,
+    "language": "Java 8",
+    "path": "codeforces\\1534\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Colour the Flag",
+    "problem_url": "https://codeforces.com/contest/1534/problem/A",
+    "submission_id": "CF119920304",
+    "submission_url": "https://codeforces.com/contest/1534/submission/119920304",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jun/19/2021 00:29"
+  },
   "CF119920401": {
     "contest_id": 1534,
     "language": "Java 8",
