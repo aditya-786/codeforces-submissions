@@ -1,4 +1,23 @@
 {
+  "CF120688686": {
+    "contest_id": 1539,
+    "language": "Java 11",
+    "path": "codeforces\\1539\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Contest Start",
+    "problem_url": "https://codeforces.com/contest/1539/problem/A",
+    "submission_id": "CF120688686",
+    "submission_url": "https://codeforces.com/contest/1539/submission/120688686",
+    "tags": [
+      "combinatorics",
+      "geometry",
+      "greedy",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Jun/26/2021 23:13"
+  },
   "CF120688696": {
     "contest_id": 1539,
     "language": "Java 11",
