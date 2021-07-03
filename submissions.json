@@ -1,4 +1,21 @@
 {
+  "CF121245387": {
+    "contest_id": 1542,
+    "language": "Java 11",
+    "path": "codeforces\\1542\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Strange Function",
+    "problem_url": "https://codeforces.com/contest/1542/problem/C",
+    "submission_id": "CF121245387",
+    "submission_url": "https://codeforces.com/contest/1542/submission/121245387",
+    "tags": [
+      "math",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "Jul/03/2021 21:17"
+  },
   "CF121246958": {
     "contest_id": 1542,
     "language": "Java 11",
