@@ -31,17 +31,18 @@ public class Main {
 
                 int n = sb.length()>>1;
                 int res = 0;
-
+                
                 for (int i=0;i<n;i++){
                     int count = 1;
-
+                    
                     for (int j=i+1;j<(n<<1) && sb.charAt(i)!=sb.charAt(j);count++,i++,j++){}
-
+                    
                     count = Math.min(count,n);
                     res = Math.max(res, count);
                 }
-
-                out.write((res + "").getBytes());
+                
+                out.write((res + " ").getBytes());
+                out.write(("\n").getBytes());
 
             }
             // Solution Ends Here
