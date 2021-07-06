@@ -1,4 +1,20 @@
 {
+  "CF121504764": {
+    "contest_id": 1023,
+    "language": "Java 11",
+    "path": "codeforces\\1023\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Bracket Subsequence",
+    "problem_url": "https://codeforces.com/contest/1023/problem/C",
+    "submission_id": "CF121504764",
+    "submission_url": "https://codeforces.com/contest/1023/submission/121504764",
+    "tags": [
+      "greedy",
+      "*1200"
+    ],
+    "timestamp": "Jul/06/2021 23:34"
+  },
   "CF121750437": {
     "contest_id": 876,
     "language": "Java 11",
