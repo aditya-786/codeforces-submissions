@@ -1,4 +1,20 @@
 {
+  "CF121750437": {
+    "contest_id": 876,
+    "language": "Java 11",
+    "path": "codeforces\\876\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Trip For Meal",
+    "problem_url": "https://codeforces.com/contest/876/problem/A",
+    "submission_id": "CF121750437",
+    "submission_url": "https://codeforces.com/contest/876/submission/121750437",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Jul/08/2021 22:52"
+  },
   "CF121750462": {
     "contest_id": 876,
     "language": "Java 11",
