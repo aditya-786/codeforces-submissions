@@ -13,10 +13,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-135 | [B - Putting Plates](https://codeforces.com/contest/1530/problem/B) | [Java 11](./codeforces/1530/B.java) | `constructive algorithms` `implementation` `*800` | Jul/17/2021 22:47 | 
-134 | [C - Pursuit](https://codeforces.com/contest/1530/problem/C) | [Java 11](./codeforces/1530/C.java) | `binary search` `brute force` `greedy` `sortings` `*1200` | Jul/17/2021 22:37 | 
-133 | [A - Binary Decimal](https://codeforces.com/contest/1530/problem/A) | [Java 8](./codeforces/1530/A.java) | `greedy` `math` `*800` | Jul/17/2021 20:13 | 
-132 | [B - Can you buy them all?](https://atcoder.jp/contests/abc209/tasks/abc209_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc209/B.java) | `AtCoder` `*200` | Jul/10/2021 17:35 | 
+136 | [B - Putting Plates](https://codeforces.com/contest/1530/problem/B) | [Java 11](./codeforces/1530/B.java) | `constructive algorithms` `implementation` `*800` | Jul/17/2021 22:47 | 
+135 | [C - Pursuit](https://codeforces.com/contest/1530/problem/C) | [Java 11](./codeforces/1530/C.java) | `binary search` `brute force` `greedy` `sortings` `*1200` | Jul/17/2021 22:37 | 
+134 | [A - Binary Decimal](https://codeforces.com/contest/1530/problem/A) | [Java 8](./codeforces/1530/A.java) | `greedy` `math` `*800` | Jul/17/2021 20:13 | 
+133 | [B - Can you buy them all?](https://atcoder.jp/contests/abc209/tasks/abc209_b) | [Java (OpenJDK 11.0.6)](./atcoder/abc209/B.java) | `AtCoder` `*200` | Jul/10/2021 17:35 | 
+132 | [A - Counting](https://atcoder.jp/contests/abc209/tasks/abc209_a) | [Java (OpenJDK 11.0.6)](./atcoder/abc209/A.java) | `AtCoder` `*100` | Jul/10/2021 17:32 | 
 131 | [B - Divisiblity of Differences](https://codeforces.com/contest/876/problem/B) | [Java 11](./codeforces/876/B.java) | `implementation` `math` `number theory` `*1300` | Jul/08/2021 22:53 | 
 130 | [C - Classroom Watch](https://codeforces.com/contest/876/problem/C) | [Java 11](./codeforces/876/C.java) | `brute force` `math` `*1200` | Jul/08/2021 22:53 | 
 129 | [D - Sorting the Coins](https://codeforces.com/contest/876/problem/D) | [Java 11](./codeforces/876/D.java) | `dsu` `implementation` `sortings` `trees` `two pointers` `*1500` | Jul/08/2021 22:53 | 
