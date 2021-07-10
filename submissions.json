@@ -1,4 +1,20 @@
 {
+  "AC24113276": {
+    "contest_id": "abc209",
+    "language": "Java (OpenJDK 11.0.6)",
+    "path": "atcoder\\abc209\\B.java",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Can you buy them all?",
+    "problem_url": "https://atcoder.jp/contests/abc209/tasks/abc209_b",
+    "submission_id": "AC24113276",
+    "submission_url": "https://atcoder.jp/contests/abc209/submissions/24113276",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jul/10/2021 17:35"
+  },
   "CF101540476": {
     "contest_id": 1463,
     "language": "Java 8",
