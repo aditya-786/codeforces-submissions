@@ -1,4 +1,23 @@
 {
+  "CF122849018": {
+    "contest_id": 1530,
+    "language": "Java 11",
+    "path": "codeforces\\1530\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Pursuit",
+    "problem_url": "https://codeforces.com/contest/1530/problem/C",
+    "submission_id": "CF122849018",
+    "submission_url": "https://codeforces.com/contest/1530/submission/122849018",
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Jul/17/2021 22:37"
+  },
   "CF122852066": {
     "contest_id": 1530,
     "language": "Java 11",
