@@ -1,4 +1,21 @@
 {
+  "CF122783589": {
+    "contest_id": 1530,
+    "language": "Java 8",
+    "path": "codeforces\\1530\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Binary Decimal",
+    "problem_url": "https://codeforces.com/contest/1530/problem/A",
+    "submission_id": "CF122783589",
+    "submission_url": "https://codeforces.com/contest/1530/submission/122783589",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jul/17/2021 20:13"
+  },
   "CF122849018": {
     "contest_id": 1530,
     "language": "Java 11",
