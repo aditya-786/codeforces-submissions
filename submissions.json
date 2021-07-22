@@ -3951,6 +3951,23 @@
     ],
     "timestamp": "Jul/17/2021 22:47"
   },
+  "CF123363294": {
+    "contest_id": 1550,
+    "language": "Java 8",
+    "path": "codeforces\\1550\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Find The Array",
+    "problem_url": "https://codeforces.com/contest/1550/problem/A",
+    "submission_id": "CF123363294",
+    "submission_url": "https://codeforces.com/contest/1550/submission/123363294",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jul/23/2021 01:19"
+  },
   "CF123363319": {
     "contest_id": 1550,
     "language": "Java 8",
