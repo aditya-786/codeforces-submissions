@@ -3951,6 +3951,24 @@
     ],
     "timestamp": "Jul/17/2021 22:47"
   },
+  "CF123334488": {
+    "contest_id": 1553,
+    "language": "Java 8",
+    "path": "codeforces\\1553\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Backspace",
+    "problem_url": "https://codeforces.com/contest/1553/problem/D",
+    "submission_id": "CF123334488",
+    "submission_url": "https://codeforces.com/contest/1553/submission/123334488",
+    "tags": [
+      "binary search",
+      "greedy",
+      "strings",
+      "two pointers"
+    ],
+    "timestamp": "Jul/22/2021 21:40"
+  },
   "CF123363294": {
     "contest_id": 1550,
     "language": "Java 8",
