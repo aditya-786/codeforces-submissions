@@ -3951,6 +3951,23 @@
     ],
     "timestamp": "Jul/17/2021 22:47"
   },
+  "CF123363419": {
+    "contest_id": 1547,
+    "language": "Java 8",
+    "path": "codeforces\\1547\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Shortest Path with Obstacle",
+    "problem_url": "https://codeforces.com/contest/1547/problem/A",
+    "submission_id": "CF123363419",
+    "submission_url": "https://codeforces.com/contest/1547/submission/123363419",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jul/23/2021 01:21"
+  },
   "CF123363433": {
     "contest_id": 1547,
     "language": "Java 8",
