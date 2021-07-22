@@ -12,11 +12,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-312 | [B - Customising the Track](https://codeforces.com/contest/1543/problem/B) | [Java 8](./codeforces/1543/B.java) | `combinatorics` `greedy` `math` `*900` | Jul/23/2021 01:24 | 
-311 | [A - Exciting Bets](https://codeforces.com/contest/1543/problem/A) | [Java 8](./codeforces/1543/A.java) | `greedy` `math` `number theory` `*900` | Jul/23/2021 01:24 | 
-310 | [C - Pair Programming](https://codeforces.com/contest/1547/problem/C) | [Java 8](./codeforces/1547/C.java) | `greedy` `two pointers` `*1100` | Jul/23/2021 01:22 | 
-309 | [B - Alphabetical Strings](https://codeforces.com/contest/1547/problem/B) | [Java 8](./codeforces/1547/B.java) | `greedy` `implementation` `strings` `*800` | Jul/23/2021 01:22 | 
-308 | [A - Shortest Path with Obstacle](https://codeforces.com/contest/1547/problem/A) | [Java 8](./codeforces/1547/A.java) | `implementation` `math` `*800` | Jul/23/2021 01:21 | 
+313 | [B - Customising the Track](https://codeforces.com/contest/1543/problem/B) | [Java 8](./codeforces/1543/B.java) | `combinatorics` `greedy` `math` `*900` | Jul/23/2021 01:24 | 
+312 | [A - Exciting Bets](https://codeforces.com/contest/1543/problem/A) | [Java 8](./codeforces/1543/A.java) | `greedy` `math` `number theory` `*900` | Jul/23/2021 01:24 | 
+311 | [C - Pair Programming](https://codeforces.com/contest/1547/problem/C) | [Java 8](./codeforces/1547/C.java) | `greedy` `two pointers` `*1100` | Jul/23/2021 01:22 | 
+310 | [B - Alphabetical Strings](https://codeforces.com/contest/1547/problem/B) | [Java 8](./codeforces/1547/B.java) | `greedy` `implementation` `strings` `*800` | Jul/23/2021 01:22 | 
+309 | [A - Shortest Path with Obstacle](https://codeforces.com/contest/1547/problem/A) | [Java 8](./codeforces/1547/A.java) | `implementation` `math` `*800` | Jul/23/2021 01:21 | 
+308 | [A - AquaMoon and Two Arrays](https://codeforces.com/contest/1546/problem/A) | [Java 8](./codeforces/1546/A.java) | `brute force` `greedy` `*800` | Jul/23/2021 01:20 | 
 307 | [B - Putting Plates](https://codeforces.com/contest/1530/problem/B) | [Java 11](./codeforces/1530/B.java) | `constructive algorithms` `implementation` `*800` | Jul/17/2021 22:47 | 
 306 | [C - Pursuit](https://codeforces.com/contest/1530/problem/C) | [Java 11](./codeforces/1530/C.java) | `binary search` `brute force` `greedy` `sortings` `*1200` | Jul/17/2021 22:37 | 
 305 | [A - Binary Decimal](https://codeforces.com/contest/1530/problem/A) | [Java 8](./codeforces/1530/A.java) | `greedy` `math` `*800` | Jul/17/2021 20:13 | 
