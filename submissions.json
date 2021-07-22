@@ -3951,6 +3951,22 @@
     ],
     "timestamp": "Jul/17/2021 22:47"
   },
+  "CF123291888": {
+    "contest_id": 1553,
+    "language": "Java 11",
+    "path": "codeforces\\1553\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Digits Sum",
+    "problem_url": "https://codeforces.com/contest/1553/problem/A",
+    "submission_id": "CF123291888",
+    "submission_url": "https://codeforces.com/contest/1553/submission/123291888",
+    "tags": [
+      "math",
+      "number theory"
+    ],
+    "timestamp": "Jul/22/2021 20:10"
+  },
   "CF123305055": {
     "contest_id": 1553,
     "language": "Java 8",
