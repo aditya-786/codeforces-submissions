@@ -3951,6 +3951,21 @@
     ],
     "timestamp": "Jul/17/2021 22:47"
   },
+  "CF123305055": {
+    "contest_id": 1553,
+    "language": "Java 8",
+    "path": "codeforces\\1553\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Reverse String",
+    "problem_url": "https://codeforces.com/contest/1553/problem/B",
+    "submission_id": "CF123305055",
+    "submission_url": "https://codeforces.com/contest/1553/submission/123305055",
+    "tags": [
+      "brute force"
+    ],
+    "timestamp": "Jul/22/2021 20:31"
+  },
   "CF123322122": {
     "contest_id": 1553,
     "language": "Java 8",

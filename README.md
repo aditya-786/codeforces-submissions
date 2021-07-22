@@ -12,16 +12,17 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-317 | [B - Customising the Track](https://codeforces.com/contest/1543/problem/B) | [Java 8](./codeforces/1543/B.java) | `combinatorics` `greedy` `math` `*900` | Jul/23/2021 01:24 | 
-316 | [A - Exciting Bets](https://codeforces.com/contest/1543/problem/A) | [Java 8](./codeforces/1543/A.java) | `greedy` `math` `number theory` `*900` | Jul/23/2021 01:24 | 
-315 | [C - Pair Programming](https://codeforces.com/contest/1547/problem/C) | [Java 8](./codeforces/1547/C.java) | `greedy` `two pointers` `*1100` | Jul/23/2021 01:22 | 
-314 | [B - Alphabetical Strings](https://codeforces.com/contest/1547/problem/B) | [Java 8](./codeforces/1547/B.java) | `greedy` `implementation` `strings` `*800` | Jul/23/2021 01:22 | 
-313 | [A - Shortest Path with Obstacle](https://codeforces.com/contest/1547/problem/A) | [Java 8](./codeforces/1547/A.java) | `implementation` `math` `*800` | Jul/23/2021 01:21 | 
-312 | [A - AquaMoon and Two Arrays](https://codeforces.com/contest/1546/problem/A) | [Java 8](./codeforces/1546/A.java) | `brute force` `greedy` `*800` | Jul/23/2021 01:20 | 
-311 | [B - Maximum Cost Deletion](https://codeforces.com/contest/1550/problem/B) | [Java 8](./codeforces/1550/B.java) | `greedy` `math` `*1000` | Jul/23/2021 01:20 | 
-310 | [A - Find The Array](https://codeforces.com/contest/1550/problem/A) | [Java 8](./codeforces/1550/A.java) | `greedy` `math` `*800` | Jul/23/2021 01:19 | 
-309 | [D - Backspace](https://codeforces.com/contest/1553/problem/D) | [Java 8](./codeforces/1553/D.java) | `binary search` `greedy` `strings` `two pointers` | Jul/22/2021 21:40 | 
-308 | [C - Penalty](https://codeforces.com/contest/1553/problem/C) | [Java 8](./codeforces/1553/C.java) | `bitmasks` `brute force` `dp` `greedy` | Jul/22/2021 21:07 | 
+318 | [B - Customising the Track](https://codeforces.com/contest/1543/problem/B) | [Java 8](./codeforces/1543/B.java) | `combinatorics` `greedy` `math` `*900` | Jul/23/2021 01:24 | 
+317 | [A - Exciting Bets](https://codeforces.com/contest/1543/problem/A) | [Java 8](./codeforces/1543/A.java) | `greedy` `math` `number theory` `*900` | Jul/23/2021 01:24 | 
+316 | [C - Pair Programming](https://codeforces.com/contest/1547/problem/C) | [Java 8](./codeforces/1547/C.java) | `greedy` `two pointers` `*1100` | Jul/23/2021 01:22 | 
+315 | [B - Alphabetical Strings](https://codeforces.com/contest/1547/problem/B) | [Java 8](./codeforces/1547/B.java) | `greedy` `implementation` `strings` `*800` | Jul/23/2021 01:22 | 
+314 | [A - Shortest Path with Obstacle](https://codeforces.com/contest/1547/problem/A) | [Java 8](./codeforces/1547/A.java) | `implementation` `math` `*800` | Jul/23/2021 01:21 | 
+313 | [A - AquaMoon and Two Arrays](https://codeforces.com/contest/1546/problem/A) | [Java 8](./codeforces/1546/A.java) | `brute force` `greedy` `*800` | Jul/23/2021 01:20 | 
+312 | [B - Maximum Cost Deletion](https://codeforces.com/contest/1550/problem/B) | [Java 8](./codeforces/1550/B.java) | `greedy` `math` `*1000` | Jul/23/2021 01:20 | 
+311 | [A - Find The Array](https://codeforces.com/contest/1550/problem/A) | [Java 8](./codeforces/1550/A.java) | `greedy` `math` `*800` | Jul/23/2021 01:19 | 
+310 | [D - Backspace](https://codeforces.com/contest/1553/problem/D) | [Java 8](./codeforces/1553/D.java) | `binary search` `greedy` `strings` `two pointers` | Jul/22/2021 21:40 | 
+309 | [C - Penalty](https://codeforces.com/contest/1553/problem/C) | [Java 8](./codeforces/1553/C.java) | `bitmasks` `brute force` `dp` `greedy` | Jul/22/2021 21:07 | 
+308 | [B - Reverse String](https://codeforces.com/contest/1553/problem/B) | [Java 8](./codeforces/1553/B.java) | `brute force` | Jul/22/2021 20:31 | 
 307 | [B - Putting Plates](https://codeforces.com/contest/1530/problem/B) | [Java 11](./codeforces/1530/B.java) | `constructive algorithms` `implementation` `*800` | Jul/17/2021 22:47 | 
 306 | [C - Pursuit](https://codeforces.com/contest/1530/problem/C) | [Java 11](./codeforces/1530/C.java) | `binary search` `brute force` `greedy` `sortings` `*1200` | Jul/17/2021 22:37 | 
 305 | [A - Binary Decimal](https://codeforces.com/contest/1530/problem/A) | [Java 8](./codeforces/1530/A.java) | `greedy` `math` `*800` | Jul/17/2021 20:13 | 
