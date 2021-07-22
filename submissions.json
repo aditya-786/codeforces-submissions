@@ -3951,6 +3951,24 @@
     ],
     "timestamp": "Jul/17/2021 22:47"
   },
+  "CF123322122": {
+    "contest_id": 1553,
+    "language": "Java 8",
+    "path": "codeforces\\1553\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Penalty",
+    "problem_url": "https://codeforces.com/contest/1553/problem/C",
+    "submission_id": "CF123322122",
+    "submission_url": "https://codeforces.com/contest/1553/submission/123322122",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "greedy"
+    ],
+    "timestamp": "Jul/22/2021 21:07"
+  },
   "CF123334488": {
     "contest_id": 1553,
     "language": "Java 8",
