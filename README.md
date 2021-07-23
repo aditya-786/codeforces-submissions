@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-320 | [C - Interesting Story](https://codeforces.com/contest/1551/problem/C) | [Java 8](./codeforces/1551/C.java) | `greedy` `sortings` `strings` | Jul/23/2021 21:33 | 
+321 | [C - Interesting Story](https://codeforces.com/contest/1551/problem/C) | [Java 8](./codeforces/1551/C.java) | `greedy` `sortings` `strings` | Jul/23/2021 21:33 | 
+320 | [B2 - Wonderful Coloring - 2](https://codeforces.com/contest/1551/problem/B2) | [Java 8](./codeforces/1551/B2.java) | `binary search` `constructive algorithms` `data structures` `greedy` | Jul/23/2021 21:04 | 
 319 | [A - Exciting Bets](https://codeforces.com/contest/1543/problem/A) | [Java 8](./codeforces/1543/A.java) | `greedy` `math` `number theory` `*900` | Jul/23/2021 01:24 | 
 318 | [B - Customising the Track](https://codeforces.com/contest/1543/problem/B) | [Java 8](./codeforces/1543/B.java) | `combinatorics` `greedy` `math` `*900` | Jul/23/2021 01:24 | 
 317 | [B - Alphabetical Strings](https://codeforces.com/contest/1547/problem/B) | [Java 8](./codeforces/1547/B.java) | `greedy` `implementation` `strings` `*800` | Jul/23/2021 01:22 | 

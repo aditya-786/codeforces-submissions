@@ -4157,6 +4157,24 @@
     ],
     "timestamp": "Jul/23/2021 01:24"
   },
+  "CF123495226": {
+    "contest_id": 1551,
+    "language": "Java 8",
+    "path": "codeforces\\1551\\B2.java",
+    "platform": "Codeforces",
+    "problem_index": "B2",
+    "problem_name": "Wonderful Coloring - 2",
+    "problem_url": "https://codeforces.com/contest/1551/problem/B2",
+    "submission_id": "CF123495226",
+    "submission_url": "https://codeforces.com/contest/1551/submission/123495226",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "greedy"
+    ],
+    "timestamp": "Jul/23/2021 21:04"
+  },
   "CF123510825": {
     "contest_id": 1551,
     "language": "Java 8",
