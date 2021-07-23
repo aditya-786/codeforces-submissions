@@ -4157,6 +4157,23 @@
     ],
     "timestamp": "Jul/23/2021 01:24"
   },
+  "CF123510825": {
+    "contest_id": 1551,
+    "language": "Java 8",
+    "path": "codeforces\\1551\\C.java",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Interesting Story",
+    "problem_url": "https://codeforces.com/contest/1551/problem/C",
+    "submission_id": "CF123510825",
+    "submission_url": "https://codeforces.com/contest/1551/submission/123510825",
+    "tags": [
+      "greedy",
+      "sortings",
+      "strings"
+    ],
+    "timestamp": "Jul/23/2021 21:33"
+  },
   "CF72257975": {
     "contest_id": 381,
     "language": "Python 3",
