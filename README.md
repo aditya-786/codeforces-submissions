@@ -2,7 +2,6 @@ Submissions
 ======================
 
 ## Introduction
-> *Auto-generated with ❤ using [Harwest](https://github.com/nileshsah/harwest-tool)*
 
 A repository to keep track of problem solving practice, containing solutions from platforms:<br/><br/>
  [![Codeforces](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/2560px-Codeforces_logo.svg.png)](https://codeforces.com/profile/Adi_7861)
